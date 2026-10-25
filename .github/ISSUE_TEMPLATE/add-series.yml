@@ -1,7 +1,6 @@
 name: 推荐新剧
 description: 推荐一部漏掉的红果漫剧 / AI 剧，标题填剧名即可提交
 title: ""
-labels: ["推荐"]
 body:
   - type: markdown
     attributes:
