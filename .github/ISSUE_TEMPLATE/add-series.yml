@@ -1,0 +1,46 @@
+name: 推荐新剧
+description: 推荐一部漏掉的红果漫剧 / AI 剧，只填剧名就能提交
+title: "[推荐] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **只填剧名就能提交**，其他能填就填，不知道就留空。
+
+  - type: input
+    id: name
+    attributes:
+      label: 剧名
+      description: 红果上看到的名字，带「第X季」也没关系
+      placeholder: 死囚营杀敌就能加点
+    validations:
+      required: true
+
+  - type: input
+    id: seasons_eps
+    attributes:
+      label: 季数 / 集数（选填）
+      description: 知道就写，例如「5 季」或「5 季，305/312/313/1000/780」
+      placeholder: 5 季，305/312/313/1000/780
+    validations:
+      required: false
+
+  - type: dropdown
+    id: gender
+    attributes:
+      label: 频道（选填）
+      description: 平台不公开男女频，知道就选一个
+      options:
+        - 不确定
+        - 男频
+        - 女频
+    validations:
+      required: false
+
+  - type: textarea
+    id: extra
+    attributes:
+      label: 其他（选填）
+      description: 详情页链接、series_id、「第 6 季预约中」之类的补充
+    validations:
+      required: false

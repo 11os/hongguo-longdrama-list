@@ -1,0 +1,7 @@
+# 站点仓库只放 index.html / clean.csv / README / issue 模板
+# 防在 site/ 里误跑构建或复制时把中间产物带进来
+dist/
+*.bak
+*.tmp
+__pycache__/
+.DS_Store
