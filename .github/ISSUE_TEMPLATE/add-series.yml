@@ -1,47 +1,26 @@
 name: 推荐新剧
-description: 推荐一部漏掉的红果漫剧 / AI 剧，标题填完整剧名即可提交
+description: 标题填完整剧名（带第几季也可以），内容选填——贴链接、series_id、随手写两句都行
 title: "完整剧名（带第几季也可以）"
 body:
   - type: markdown
     attributes:
       value: |
-        ### 标题直接填完整剧名
+        ### 标题写完整剧名
 
-        把标题换成剧名就行，带「第 X 季」也可以，例如 `咱家剑宗团宠小师妹` 或 `咱家剑宗团宠小师妹 第5季`。
+        带「第 X 季」也可以，例如 `咱家剑宗团宠小师妹` 或 `咱家剑宗团宠小师妹 第5季`。
 
-        下面的字段**全部选填**：不知道的留空，贴链接、贴截图链接、随手写两句都可以，直接点提交。
-
-  - type: input
-    id: seasons_eps
-    attributes:
-      label: 季数 / 集数（选填）
-      description: 只知道一共几季，就只写季数；每季集数不确定可以空着
-      placeholder: 例：5 季，305/312/313/1000/780（或只写「5 季」）
-    validations:
-      required: false
-
-  - type: dropdown
-    id: gender
-    attributes:
-      label: 频道（选填）
-      description: 平台不公开男女频，知道就选一个，拿不准留在「不确定」
-      options:
-        - 不确定
-        - 男频
-        - 女频
-    validations:
-      required: false
+        内容**选填**：贴链接、series_id、截图链接，随手写两句都行；不知道就留空，直接点提交。
 
   - type: textarea
-    id: extra
+    id: content
     attributes:
-      label: 其他（选填）
-      description: 链接、series_id、更新状态、口碑关键词……有什么贴什么
+      label: 内容（选填）
+      description: 详情页链接、App 分享短链、series_id、「第 6 季预约中」之类，有什么贴什么
       placeholder: |-
-        例：
-        - 红果详情页链接：https://...
+        选填，有什么贴什么，例如：
+        - 红果详情页链接：https://hongguoduanju.com/detail?series_id=76xxxxxxxxxxxxxxxx
+        - App 分享短链：https://novelquickapp.com/s/xxxx/
         - series_id：123456
-        - 第 6 季预约中
-        - 评论区常提「不拖沓」「搞事业」
+        - 第 6 季预约中／女主剧，1 季 300 集
     validations:
       required: false
