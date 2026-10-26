@@ -1,5 +1,5 @@
 name: 推荐新剧
-description: 标题接着「【推荐】」写完整剧名（带第几季也可以），内容选填——贴链接、series_id、随手写两句都行
+description: 标题接着「【推荐】」写完整剧名（带第几季也可以），内容选填，贴链接或随手写两句都行
 title: "【推荐】"
 body:
   - type: markdown
@@ -7,20 +7,17 @@ body:
       value: |
         ### 标题在「【推荐】」后面写完整剧名
 
-        带「第 X 季」也可以，例如 `【推荐】咱家剑宗团宠小师妹` 或 `【推荐】咱家剑宗团宠小师妹 第5季`。
-
-        内容**选填**：贴链接、series_id、截图链接，随手写两句都行；不知道就留空，直接点提交。
+        带「第 X 季」也可以，例如 `【推荐】咱家剑宗团宠小师妹 第5季`。
 
   - type: textarea
     id: content
     attributes:
       label: 内容（选填）
-      description: 详情页链接、App 分享短链、series_id、「第 6 季预约中」之类，有什么贴什么
+      description: 链接、series_id、其他信息都行
       placeholder: |-
-        选填，有什么贴什么，例如：
-        - 红果详情页链接：https://hongguoduanju.com/detail?series_id=76xxxxxxxxxxxxxxxx
-        - App 分享短链：https://novelquickapp.com/s/xxxx/
-        - series_id：123456
-        - 第 6 季预约中／女主剧，1 季 300 集
+        例：
+        https://hongguoduanju.com/detail?series_id=76xxxxxxxxxxxxxxxx
+        https://novelquickapp.com/s/xxxx/
+        series_id：123456　｜　第 6 季预约中
     validations:
       required: false
