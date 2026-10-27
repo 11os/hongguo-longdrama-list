@@ -190,12 +190,16 @@ tr.hit td.n{box-shadow:inset 3px 0 0 #E0A800}
  .bars.open .bar2{display:flex;order:5;flex:1 1 100%}
  .btn.rst{order:6;display:none}
  .bars.open .btn.rst{display:inline-flex}
- .foldbtn{display:inline-flex;order:2;align-items:center;gap:8px;font:inherit;font-size:12.5px;
+  .foldbtn{display:flex;order:2;align-items:center;gap:2px 8px;font:inherit;font-size:12.5px;
   padding:7px 11px;border-radius:9px;border:0.5px solid #D9D6CD;background:#fff;color:#2C2C2A;
-  cursor:pointer;flex:1 1 100%;width:100%}
- .foldbtn .fs{color:#8A8880;font-size:11px;max-width:30vw;overflow:hidden;
-  text-overflow:ellipsis;white-space:nowrap}
- .foldbtn .fcar{font-size:9px;color:#5B8DBE;transition:transform .15s}
+  cursor:pointer;flex:1 1 100%;width:100%;flex-wrap:wrap;text-align:left}
+  .foldbtn .ft{white-space:nowrap}
+  /* 摘要独占一行：单行布局下它只能拿到 ~30vw，实测需要 215px 会截断成「…」，
+     所以改成第二行占满整行宽度，摘要在 320px 宽机型上也能完整显示 */
+  .foldbtn .fs{color:#8A8880;font-size:11px;flex:0 0 100%;min-width:0;line-height:1.55;
+  white-space:normal;overflow-wrap:anywhere}
+  .foldbtn .fs:empty{display:none}
+  .foldbtn .fcar{font-size:9px;color:#5B8DBE;transition:transform .15s}
  .bars.open .foldbtn .fcar{transform:rotate(90deg)}
  .btn{flex:0 0 auto;font-size:12px;padding:7px 11px}
  .btn.iss{display:none}
@@ -251,7 +255,7 @@ tr.hit td.n{box-shadow:inset 3px 0 0 #E0A800}
 <div class="hd">
 <h1 id="h1">红果长剧清单 · ≥500 集</h1>
 <a class="gh" target="_blank" rel="noopener" title="GitHub 仓库" href="https://github.com/11os/hongguo-longdrama-list"><svg viewBox="0 0 16 16" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .271.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg></a></div>
-<p class="sub">生成于 2026-10-27 16:40　共 <b id="cnt">484</b> 个系列</p>
+<p class="sub">生成于 2026-10-27 17:24　共 <b id="cnt">484</b> 个系列</p>
 <details class="legend"><summary>图例与统计口径</summary><ul><li><b>合并</b>：同名不同季已合并；集数为系列累计，季数为已收录季数；评分取最高一季，收藏/点赞/评论为各季合计。</li><li><b>标签两档</b>：<span class="lgd lgd-c">好评</span> 事实性好评（没有后宫 / 舍弃拖沓支线 / 感情线都没有，也包括杀伐果断、搞事业这类正向特征）；<span class="lgd lgd-n">差评</span> 肯定式差评（后宫/圣母/狗血/拖沓确实存在）。每组默认只露前几个，点「+N」展开全部（再点「收起标签」收拢）。</li><li><b>交互</b>：点「评论摘要 N 条」展开抽屉，差评排在前面。</li><li><b>摘要</b>：只截命中词周边片段（单条 ≤50 字），命中词连同否定词一起高亮，差评排在前面；片段左侧色条：浅红=差评、浅绿=好评、橙=褒贬都有。样本不代表全量评论。</li><li><b>搜索</b>：剧名、类型、评论关键词都能搜（如「不拖沓」）；空格分隔多个词是「同时满足」。点「重置」把门槛/频道/排序/搜索一起恢复。</li><li><b>定位</b>：外部链接带上剧名（?name=剧名，或 #剧名）可自动定位到该剧：滚过去、高亮、并展开它的评论（门槛/频道/搜索会自动放开）。</li></ul></details>
 <div class="bars"><div class="bar">
 <div class="fltgrp"><b>门槛</b><div class="btns flt">
@@ -265,7 +269,7 @@ tr.hit td.n{box-shadow:inset 3px 0 0 #E0A800}
 <button class="btn g on" data-g="u">待定</button>
 </div></div>
 <div class="qw" id="qw"><input id="q" type="text" autocomplete="off" aria-label="搜索剧名、类型或评论关键词" placeholder="剧名 / 类型 / 评论关键词"><button type="button" class="qx" id="qx" aria-label="清空搜索">✕</button></div>
-<button type="button" class="foldbtn" data-fold aria-expanded="false"><span class="fcar">▸</span>筛选与排序<span class="fs"></span></button>
+<button type="button" class="foldbtn" data-fold aria-expanded="false"><span class="fcar">▸</span><span class="ft">筛选与排序</span><span class="fs"></span></button>
 <button type="button" class="btn rst" data-reset title="门槛、频道、排序、搜索全部回到初始">重置</button>
 <a class="btn iss" target="_blank" rel="noopener" href="https://github.com/11os/hongguo-longdrama-list/issues/new?template=add-series.yml"><span class="t-full">没找到想要的剧？点这里推荐 ↗</span><span class="t-mini">＋ 推荐剧</span></a>
 </div>
