@@ -60,7 +60,7 @@ padding-bottom:9px;margin-bottom:2px}
 table{width:100%;border-collapse:collapse;table-layout:auto}
 th{font-size:11px;color:#8A8880;font-weight:500;text-align:left;padding:8px 6px 5px;
 border-bottom:1px solid #EFEDE6;white-space:nowrap;position:sticky;top:var(--barsh,0px);
-background:#fff;z-index:2;box-shadow:inset 0 -1px 0 #EFEDE6}
+background:#fff;z-index:2}
 td{font-size:12.5px;padding:9px 6px;border-bottom:1px solid #F6F4EE;line-height:1.5;
 vertical-align:top}
 tr:last-child td{border-bottom:none}
@@ -79,7 +79,7 @@ tr:has(.cbox[open]) td{background:#F7FAFD}
 .d{color:#8A8880;font-size:11px;font-weight:400;line-height:1.5;margin-top:6px}
 .bg{display:inline-block;font-size:10.5px;padding:1px 7px;border-radius:999px;font-weight:500;
 line-height:1.6;white-space:nowrap}
-.bg.s{background:#EEF3FB;color:#185FA5}.bg.e{background:#EAF3DE;color:#3B6D11}
+.bg.s{background:#EEF3FB;color:#185FA5}.bg.e{background:#FCEFED;color:#B42318}
 .bg.m{background:#F4F2EC;color:#7A786F}.bg.one{background:#F4F2EC;color:#8A8880}
 .bg.g-m{background:#E6F1FB;color:#185FA5}.bg.g-f{background:#FBEAF0;color:#993556}
 .bg.g-u{background:#F4F2EC;color:#8A8880}
@@ -164,9 +164,9 @@ border:1px solid #D9D6CD;background:#fff;color:#6B6A64;font-size:16px;cursor:poi
 opacity:0;pointer-events:none;transition:.2s;box-shadow:0 2px 8px rgba(0,0,0,.08);z-index:9}
 #toTop.show{opacity:1;pointer-events:auto}
 #toTop:hover{color:#185FA5;border-color:#9FC4E8}
-#rand{position:fixed;right:18px;bottom:70px;height:38px;padding:0 14px;border-radius:19px;
-border:1px solid #D9D6CD;background:#fff;color:#5B5A54;font-size:12.5px;cursor:pointer;
-white-space:nowrap;box-shadow:0 2px 8px rgba(0,0,0,.08);z-index:9;transition:.2s}
+#rand{position:fixed;right:18px;bottom:70px;width:38px;height:38px;padding:4px 0;border-radius:10px;
+border:1px solid #D9D6CD;background:#fff;color:#5B5A54;font-size:11px;line-height:1.3;cursor:pointer;
+white-space:normal;text-align:center;box-shadow:0 2px 8px rgba(0,0,0,.08);z-index:9;transition:.2s}
 #rand:hover{color:#185FA5;border-color:#9FC4E8;background:#F7FBFF}
 tr.hl td{animation:hlflash 2.6s ease-out}
 @keyframes hlflash{0%,42%{background:#FFF4C2}100%{background:transparent}}
@@ -203,15 +203,13 @@ tr.hit td.n{box-shadow:inset 3px 0 0 #E0A800}
  .bars.open .btn.rst{display:inline-flex}
  .foldbtn{display:inline-flex;order:2;align-items:center;gap:8px;font:inherit;font-size:12.5px;
   padding:7px 11px;border-radius:9px;border:0.5px solid #D9D6CD;background:#fff;color:#2C2C2A;
-  cursor:pointer}
- .foldbtn .fs{color:#8A8880;font-size:11px;max-width:44vw;overflow:hidden;
+  cursor:pointer;flex:1 1 100%;width:100%}
+ .foldbtn .fs{color:#8A8880;font-size:11px;max-width:30vw;overflow:hidden;
   text-overflow:ellipsis;white-space:nowrap}
  .foldbtn .fcar{font-size:9px;color:#5B8DBE;transition:transform .15s}
  .bars.open .foldbtn .fcar{transform:rotate(90deg)}
  .btn{flex:0 0 auto;font-size:12px;padding:7px 11px}
- .btn.iss{order:3;margin-left:auto;flex:0 0 auto;padding:7px 11px}
- .btn.iss .t-full{display:none}
- .btn.iss .t-mini{display:inline}
+ .btn.iss{display:none}
  .btns{flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch;
   scrollbar-width:none;margin:0;padding:0 0 2px;width:100%;flex:0 0 auto}
  .fltgrp .btns{flex:1 1 auto;width:auto;min-width:0}
@@ -224,19 +222,20 @@ tr.hit td.n{box-shadow:inset 3px 0 0 #E0A800}
  .k span{font-size:10.5px;white-space:nowrap}
  .gh{padding:8px}
  .p{padding:11px 12px;border-radius:12px}
- .ph{flex-wrap:wrap;gap:3px;padding-bottom:7px}
+ .ph{flex-wrap:wrap;gap:3px;padding-bottom:7px;border-bottom:0.5px solid #F4F2EC}
  .ph h2{font-size:14.5px}
  .ph span{margin-left:0;width:100%;font-size:11px;line-height:1.5}
  table,thead,tbody,tr,td{display:block;width:100%}
  thead{display:none}
- tr{padding:10px 0;border-bottom:1px solid #F4F2EC}
+ tr{padding:10px 0 10px 0;border-bottom:1px solid #F4F2EC}
  tr:last-child{border-bottom:none;padding-bottom:2px}
  td{border:none;padding:0}
  td.n{line-height:1.6}
- .nm{font-size:14.5px;line-height:1.6}
- .tl{gap:5px}
- .src{font-size:11px;padding:1px 8px}
- .bg{font-size:10px;padding:1px 6px}
+ .nm{font-size:14.5px;line-height:1.6;min-width:0;overflow:hidden;text-overflow:ellipsis;
+  white-space:nowrap;flex:0 1 auto;max-width:50vw}
+ .tl{gap:5px;align-items:center}
+ .src{font-size:11px;padding:1px 8px;flex-shrink:0}
+ .bg{font-size:10px;padding:1px 6px;flex-shrink:0}
  .d{margin-top:4px}
  td.r{display:inline;width:auto;margin:0 12px 0 0;padding:0;background:none;font-size:12px;
   color:#55544F;font-variant-numeric:tabular-nums}
@@ -244,10 +243,10 @@ tr.hit td.n{box-shadow:inset 3px 0 0 #E0A800}
  td.r:after{content:"·";color:#D9D6CD;margin-left:12px}
  td.r:last-of-type:after{content:none}
  .cbox{width:auto;max-width:none;margin:7px 0 0}
- .cbox>summary{padding:6px 9px;gap:4px 7px}
+ .cbox>summary{padding:6px 9px;gap:4px 7px;max-width:100%;overflow:hidden}
  .cs{font-size:12px}.cs .cn{font-size:13px}
- .kw{font-size:11px;padding:2px 8px}
- .kg{font-size:10.5px}
+ .kw{font-size:11px;padding:2px 8px;flex-shrink:0}
+ .kg{font-size:10.5px;flex-shrink:0}
  .kmore,.kless{font-size:11px;padding:2px 8px}
  .cbody{max-height:none;overflow:visible;padding:8px 9px 9px}
  .cf{position:static;box-shadow:none}
@@ -256,7 +255,8 @@ tr.hit td.n{box-shadow:inset 3px 0 0 #E0A800}
  .cm b{font-size:10.5px}
  .cclose{padding:8px 0;font-size:12px}
  #toTop{right:12px;bottom:16px;width:42px;height:42px}
- #rand{right:12px;bottom:66px;height:42px;border-radius:21px;font-size:13px}
+ #rand{right:12px;bottom:62px;width:42px;height:42px;padding:4px 0;border-radius:10px;
+  font-size:11px;line-height:1.3;z-index:8}
 }
 </style></head><body><div class="w">
 <div class="hd">
@@ -1468,8 +1468,8 @@ PS：有评论说苏寒<mark>感情</mark>线的事情，这里再重申一下�
 <tr data-name="奶团驾到：调皮乐宝大佬爹" data-eps="304" data-seasons="2" data-g="f" data-max="152" data-score="0" data-fav="0" data-like="0" data-comments="0"><td class="n"><div class="tl"><span class="bg g-f">女频</span><span class="nm">奶团驾到：调皮乐宝大佬爹</span><button class="src" type="button" data-copy="奶团驾到：调皮乐宝大佬爹" title="复制剧名，去红果 App 搜索">复制剧名</button><span class="bg s">2 季</span><span class="bg e">304 集</span><span class="bg m">单季 152</span></div><details class="cbox"><summary><span class="cs"><span class="car">▸</span>评论摘要 <span class="cn">1</span> 条</span><span class="ktags"><span class="kg k-c">好评<span class="kw c" title="看含「建模稳」的评论">建模稳 1</span></span></span></summary><div class="cbody"><p class="cm c" data-p="pos"><b>建模稳</b>简直爱了好吧，希望快出第2季。然后还希望<mark>建模稳</mark>定些，别跟另外一些AI一样，第1集特别的建模，第2集人…</p></div><button type="button" class="cclose">收起评论</button></details></td><td class="r sc" data-l="评分">-</td><td class="r" data-l="收藏">-</td><td class="r" data-l="点赞">-</td><td class="r" data-l="评论">-</td></tr>
 <tr data-name="我大华第一逍遥王完结篇" data-eps="303" data-seasons="1" data-g="m" data-max="303" data-score="0" data-fav="0" data-like="0" data-comments="0"><td class="n"><div class="tl"><span class="bg g-m">男频</span><span class="nm">我大华第一逍遥王完结篇</span><button class="src" type="button" data-copy="我大华第一逍遥王完结篇" title="复制剧名，去红果 App 搜索">复制剧名</button><span class="bg one">单季</span><span class="bg e">303 集</span><span class="bg m">单季 303</span></div></td><td class="r sc" data-l="评分">-</td><td class="r" data-l="收藏">-</td><td class="r" data-l="点赞">-</td><td class="r" data-l="评论">-</td></tr>
 <tr data-name="今穿越星际，我成万兽迷完结篇" data-eps="303" data-seasons="3" data-g="u" data-max="101" data-score="0" data-fav="0" data-like="0" data-comments="0"><td class="n"><div class="tl"><span class="bg g-u">待定</span><span class="nm">今穿越星际，我成万兽迷完结篇</span><button class="src" type="button" data-copy="今穿越星际，我成万兽迷完结篇" title="复制剧名，去红果 App 搜索">复制剧名</button><span class="bg s">3 季</span><span class="bg e">≈303 集</span><span class="bg m">单季 101</span></div></td><td class="r sc" data-l="评分">-</td><td class="r" data-l="收藏">-</td><td class="r" data-l="点赞">-</td><td class="r" data-l="评论">-</td></tr>
-<tr data-name="七零年代：我的空间专治不服" data-eps="303" data-seasons="1" data-g="f" data-max="303" data-score="0" data-fav="0" data-like="0" data-comments="0"><td class="n"><div class="tl"><span class="bg g-f">女频</span><span class="nm">七零年代：我的空间专治不服</span><button class="src" type="button" data-copy="七零年代：我的空间专治不服" title="复制剧名，去红果 App 搜索">复制剧名</button><span class="bg one">单季</span><span class="bg e">303 集</span><span class="bg m">单季 303</span></div><details class="cbox"><summary><span class="cs"><span class="car">▸</span>评论摘要 <span class="cn">1</span> 条</span><span class="ktags"><span class="kg k-c">好评<span class="kw c" title="看含「杀伐果断」的评论">杀伐果断 1</span></span></span></summary><div class="cbody"><p class="cm c" data-p="pos"><b>杀伐果断</b>来来来[送花]
-我看看妳怎么用空间毁尸灭迹的[爱慕]
+<tr data-name="七零年代：我的空间专治不服" data-eps="303" data-seasons="1" data-g="f" data-max="303" data-score="0" data-fav="0" data-like="0" data-comments="0"><td class="n"><div class="tl"><span class="bg g-f">女频</span><span class="nm">七零年代：我的空间专治不服</span><button class="src" type="button" data-copy="七零年代：我的空间专治不服" title="复制剧名，去红果 App 搜索">复制剧名</button><span class="bg one">单季</span><span class="bg e">303 集</span><span class="bg m">单季 303</span></div><details class="cbox"><summary><span class="cs"><span class="car">▸</span>评论摘要 <span class="cn">1</span> 条</span><span class="ktags"><span class="kg k-c">好评<span class="kw c" title="看含「杀伐果断」的评论">杀伐果断 1</span></span></span></summary><div class="cbody"><p class="cm c" data-p="pos"><b>杀伐果断</b>来来来[送花]
+我看看妳怎么用空间毁尸灭迹的[爱慕]
 如果不是<mark>杀伐果断</mark>[偷笑]我就跑了[微笑]</p></div><button type="button" class="cclose">收起评论</button></details></td><td class="r sc" data-l="评分">-</td><td class="r" data-l="收藏">-</td><td class="r" data-l="点赞">-</td><td class="r" data-l="评论">-</td></tr>
 <tr data-name="我的右眼是神级计算机" data-eps="302" data-seasons="1" data-g="m" data-max="179" data-score="0" data-fav="0" data-like="0" data-comments="0"><td class="n"><div class="tl"><span class="bg g-m">男频</span><span class="nm">我的右眼是神级计算机</span><button class="src" type="button" data-copy="我的右眼是神级计算机" title="复制剧名，去红果 App 搜索">复制剧名</button><span class="bg one">单季</span><span class="bg e">302 集</span><span class="bg m">单季 179</span></div><details class="cbox"><summary><span class="cs"><span class="car">▸</span>评论摘要 <span class="cn">2</span> 条</span><span class="ktags"><span class="kg k-n">差评<span class="kw n" title="看含「舔狗」的评论">舔狗 2</span></span></span></summary><div class="cbody"><p class="cm neg" data-p="neg"><b>舔狗</b>看了总结，觉醒了超能力，拥有了无线财富。。屈身去当白眼狼一家的<mark>舔狗</mark>下人。[笑哭][笑哭]</p><p class="cm neg" data-p="neg"><b>舔狗</b>回评；快跑，救白眼狼当<mark>舔狗</mark>，女的一家摆姿态看不起没有丝毫感激，男的硬舔，爱受气请继续</p></div><button type="button" class="cclose">收起评论</button></details></td><td class="r sc" data-l="评分">-</td><td class="r" data-l="收藏">-</td><td class="r" data-l="点赞">-</td><td class="r" data-l="评论">-</td></tr>
 <tr data-name="我成为镇国武神后没机会装了" data-eps="302" data-seasons="1" data-g="m" data-max="302" data-score="0" data-fav="0" data-like="0" data-comments="0"><td class="n"><div class="tl"><span class="bg g-m">男频</span><span class="nm">我成为镇国武神后没机会装了</span><button class="src" type="button" data-copy="我成为镇国武神后没机会装了" title="复制剧名，去红果 App 搜索">复制剧名</button><span class="bg one">单季</span><span class="bg e">302 集</span><span class="bg m">单季 302</span></div><details class="cbox"><summary><span class="cs"><span class="car">▸</span>评论摘要 <span class="cn">1</span> 条</span><span class="ktags"><span class="kg k-c">好评<span class="kw c" title="看含「不憋屈」的评论">不憋屈 1</span></span></span></summary><div class="cbody"><p class="cm c" data-p="pos"><b>不憋屈</b>…别爽，没有乱七八糟的剧情，就纯爽，一点也<mark>不憋屈</mark>，就很爽，第二季搞快点，等不及了[没看够][没看够]</p></div><button type="button" class="cclose">收起评论</button></details></td><td class="r sc" data-l="评分">-</td><td class="r" data-l="收藏">-</td><td class="r" data-l="点赞">-</td><td class="r" data-l="评论">-</td></tr>
@@ -1793,7 +1793,7 @@ PS：有评论说苏寒<mark>感情</mark>线的事情，这里再重申一下�
 
   /* ------------------------------------------------ 随便看看 */
   var rnd=document.createElement('button');
-  rnd.id='rand'; rnd.type='button'; rnd.textContent='随便看看';
+  rnd.id='rand'; rnd.type='button'; rnd.innerHTML='随便<br>看看';
   rnd.setAttribute('aria-label','随机看一部');
   rnd.addEventListener('click',function(){
     var rows=Array.prototype.filter.call(
