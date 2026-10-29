@@ -408,6 +408,34 @@
   "ongoing": false
  },
  {
+  "name": "天幕直播：古人每周来我家",
+  "gender": "女频",
+  "seasons_n": 4,
+  "eps_est": 670,
+  "estimated": true,
+  "score": null,
+  "tags": [
+   "脑洞",
+   "穿越",
+   "系统",
+   "都市"
+  ],
+  "clean_hits": {
+   "感情": 7,
+   "感情戏": 5,
+   "出戏": 1
+  },
+  "clean_total": 13,
+  "reply_hits": 0,
+  "samples": [
+   "…夫，我们去除了繁琐的同人不同时空的对碰与感情戏，着重于讲历史，尽量去填平大家心中的意难平，（我们在片…",
+   "…遗憾了 几个皇帝的弹幕互动很有趣 删掉了感情线正好让这个剧不降低档次，要是和徐有感情线真的会很下头。"
+  ],
+  "latest_season": 4,
+  "latest_season_date": "2026/10/13",
+  "ongoing": false
+ },
+ {
   "name": "仙界归来家人竟护了我十年肉身",
   "gender": "男频",
   "seasons_n": 3,
@@ -505,34 +533,6 @@
   "ongoing": false
  },
  {
-  "name": "天幕直播：古人每周来我家",
-  "gender": "女频",
-  "seasons_n": 4,
-  "eps_est": 670,
-  "estimated": true,
-  "score": null,
-  "tags": [
-   "脑洞",
-   "穿越",
-   "系统",
-   "都市"
-  ],
-  "clean_hits": {
-   "感情": 6,
-   "感情戏": 4,
-   "出戏": 1
-  },
-  "clean_total": 11,
-  "reply_hits": 0,
-  "samples": [
-   "…夫，我们去除了繁琐的同人不同时空的对碰与感情戏，着重于讲历史，尽量去填平大家心中的意难平，（我们在片…",
-   "…遗憾了 几个皇帝的弹幕互动很有趣 删掉了感情线正好让这个剧不降低档次，要是和徐有感情线真的会很下头。"
-  ],
-  "latest_season": 4,
-  "latest_season_date": "2026/10/13",
-  "ongoing": false
- },
- {
   "name": "发配充军，战神系统宁九才镇守边关",
   "gender": "男频",
   "seasons_n": 7,
@@ -625,6 +625,35 @@
   ],
   "latest_season": 3,
   "latest_season_date": "2026/10/03",
+  "ongoing": false
+ },
+ {
+  "name": "斩神官：神灾之体",
+  "gender": "男频",
+  "seasons_n": 4,
+  "eps_est": 1643,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "玄幻",
+   "修真",
+   "逆袭",
+   "古代"
+  ],
+  "clean_hits": {
+   "后宫": 5,
+   "感情": 2,
+   "恋爱": 1,
+   "拖沓": 1
+  },
+  "clean_total": 9,
+  "reply_hits": 0,
+  "samples": [
+   "是后宫吗 我被一句“娶回家倒是不错”搞疑惑了，不是为了小玉能付出性命吗 怎么人设突然崩了，先退了 有…",
+   "…很有意思，几百集不够看的。 评论有说男主后宫文根本不是的，是单女主男主忠诚而且感情线很少，女配都是正…"
+  ],
+  "latest_season": 4,
+  "latest_season_date": "2026/10/15",
   "ongoing": false
  },
  {
@@ -875,35 +904,6 @@
   "ongoing": false
  },
  {
-  "name": "斩神官：神灾之体",
-  "gender": "男频",
-  "seasons_n": 4,
-  "eps_est": 1643,
-  "estimated": false,
-  "score": null,
-  "tags": [
-   "玄幻",
-   "修真",
-   "逆袭",
-   "古代"
-  ],
-  "clean_hits": {
-   "后宫": 4,
-   "感情": 2,
-   "恋爱": 1,
-   "拖沓": 1
-  },
-  "clean_total": 8,
-  "reply_hits": 0,
-  "samples": [
-   "是后宫吗 我被一句“娶回家倒是不错”搞疑惑了，不是为了小玉能付出性命吗 怎么人设突然崩了，先退了 有…",
-   "…很有意思，几百集不够看的。 评论有说男主后宫文根本不是的，是单女主男主忠诚而且感情线很少，女配都是正…"
-  ],
-  "latest_season": 4,
-  "latest_season_date": "2026/10/15",
-  "ongoing": false
- },
- {
   "name": "末哥超凡公路",
   "gender": "男频",
   "seasons_n": 8,
@@ -998,6 +998,35 @@
   "ongoing": false
  },
  {
+  "name": "绑定神豪后我一路开挂",
+  "gender": "男频",
+  "seasons_n": 1,
+  "eps_est": 999,
+  "estimated": false,
+  "score": 6.7,
+  "tags": [
+   "脑洞",
+   "系统",
+   "逆袭"
+  ],
+  "clean_hits": {
+   "拖沓": 2,
+   "墨迹": 2,
+   "磨叽": 2,
+   "注水": 1,
+   "敷衍": 1
+  },
+  "clean_total": 8,
+  "reply_hits": 2,
+  "samples": [
+   "…、最不绕弯、最扎心、最硬核、最干脆、最不墨迹、最戳痛点、最不留情面、最一针见血、最开门见山、最单刀直…",
+   "我直接用最直白、最直接、最不绕弯、最不墨迹、最不废话、最不啰嗦、最不拖沓、最不磨叽、最不拐弯、最不兜…"
+  ],
+  "latest_season": 1,
+  "latest_season_date": "2026/10/24",
+  "ongoing": false
+ },
+ {
   "name": "镇北少帅",
   "gender": "待定",
   "seasons_n": 5,
@@ -1088,6 +1117,32 @@
   ],
   "latest_season": 7,
   "latest_season_date": "2026/10/09",
+  "ongoing": false
+ },
+ {
+  "name": "末日车队，序列超凡",
+  "gender": "女频",
+  "seasons_n": 4,
+  "eps_est": 1275,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "末世",
+   "穿越",
+   "求生",
+   "异能"
+  ],
+  "clean_hits": {
+   "圣母": 7
+  },
+  "clean_total": 7,
+  "reply_hits": 0,
+  "samples": [
+   "我靠，这剧太好看了，没有恶心圣母，没有那些让人憋屈的女配男配，也没那些恶心亲戚和朋友，没有奇怪的三观…",
+   "…集 或者一千集就更好了[爽][爽]女主不圣母 那些说为什么连自己姐姐都不告诉的 女主经历过那么多事情…"
+  ],
+  "latest_season": 4,
+  "latest_season_date": "2026/10/16",
   "ongoing": false
  },
  {
@@ -1420,6 +1475,30 @@
   "ongoing": false
  },
  {
+  "name": "皇位你们争，我在关外当霸主",
+  "gender": "待定",
+  "seasons_n": 1,
+  "eps_est": 583,
+  "estimated": false,
+  "score": null,
+  "tags": [],
+  "clean_hits": {
+   "后宫": 4,
+   "圣父": 1,
+   "烂尾": 1,
+   "无脑": 1
+  },
+  "clean_total": 7,
+  "reply_hits": 6,
+  "samples": [
+   "回评：剧情真的很好看，不是后宫文，男主只搞事业，没有烂尾，不是看着看着不想看的那种，人物形象也不和大…",
+   "…主进退有度,决策果断,且目前纯搞事业不是后宫！不足的点就是人物建模有时候不太稳定,打斗场面的制作方面…"
+  ],
+  "latest_season": 0,
+  "latest_season_date": "",
+  "ongoing": false
+ },
+ {
   "name": "凛冬跟随囤货：我的邻居是重生者",
   "gender": "女频",
   "seasons_n": 2,
@@ -1597,32 +1676,6 @@
   ],
   "latest_season": 5,
   "latest_season_date": "2026/10/23",
-  "ongoing": false
- },
- {
-  "name": "末日车队，序列超凡",
-  "gender": "女频",
-  "seasons_n": 4,
-  "eps_est": 1275,
-  "estimated": false,
-  "score": null,
-  "tags": [
-   "末世",
-   "穿越",
-   "求生",
-   "异能"
-  ],
-  "clean_hits": {
-   "圣母": 6
-  },
-  "clean_total": 6,
-  "reply_hits": 0,
-  "samples": [
-   "我靠，这剧太好看了，没有恶心圣母，没有那些让人憋屈的女配男配，也没那些恶心亲戚和朋友，没有奇怪的三观…",
-   "…集 或者一千集就更好了[爽][爽]女主不圣母 那些说为什么连自己姐姐都不告诉的 女主经历过那么多事情…"
-  ],
-  "latest_season": 4,
-  "latest_season_date": "2026/10/16",
   "ongoing": false
  },
  {
@@ -2161,6 +2214,34 @@
   "ongoing": false
  },
  {
+  "name": "赦夜人",
+  "gender": "待定",
+  "seasons_n": 4,
+  "eps_est": 504,
+  "estimated": true,
+  "score": null,
+  "tags": [
+   "脑洞",
+   "求生"
+  ],
+  "clean_hits": {
+   "无脑": 2,
+   "感情": 1,
+   "拖沓": 1,
+   "憋屈": 1,
+   "洗白": 1
+  },
+  "clean_total": 6,
+  "reply_hits": 1,
+  "samples": [
+   "…要，不信任但知进退，懂感恩，肯吃苦，不谈感情，只知道变强，而且这一季有了新人物出现，前任光队长，男主…",
+   "确实好看 从第一季直接到第四季度感觉太爽了。全员智商在线，终于不是无脑爽的低脂剧情了"
+  ],
+  "latest_season": 4,
+  "latest_season_date": "2026/09/17",
+  "ongoing": false
+ },
+ {
   "name": "从杂役到符仙人",
   "gender": "男频",
   "seasons_n": 10,
@@ -2448,6 +2529,64 @@
   "ongoing": false
  },
  {
+  "name": "末世第一粮仓",
+  "gender": "女频",
+  "seasons_n": 1,
+  "eps_est": 1000,
+  "estimated": false,
+  "score": 7.2,
+  "tags": [
+   "末世",
+   "穿越",
+   "系统"
+  ],
+  "clean_hits": {
+   "圣母": 3,
+   "感情": 1,
+   "拖沓": 1
+  },
+  "clean_total": 5,
+  "reply_hits": 3,
+  "samples": [
+   "…！ 人生，若想活得好，无CP，搞事业，不圣母是前提，专心搞经济、搞基建，未来才精彩！",
+   "…到500集了 评价一下 首先我觉得女主不圣母 做事迅速 然后这个剧情也挺好的 大部分都是女性角色为领…"
+  ],
+  "latest_season": 1,
+  "latest_season_date": "2026/10/24",
+  "ongoing": false
+ },
+ {
+  "name": "登基称帝，朕以万界养帝国",
+  "gender": "男频",
+  "seasons_n": 1,
+  "eps_est": 999,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "脑洞",
+   "穿越",
+   "系统",
+   "逆袭",
+   "异界"
+  ],
+  "clean_hits": {
+   "后宫": 1,
+   "感情": 1,
+   "感情戏": 1,
+   "拖沓": 1,
+   "无脑": 1
+  },
+  "clean_total": 5,
+  "reply_hits": 6,
+  "samples": [
+   "看完回评：世界观洪大，纯爽文但不是无脑爽，主角不是一个人，更像是这个国家，分支有也很多的小故事但看着…",
+   "这剧牛逼，太好看了。无后宫。世界观宏大。 还有规矩规则，科技各类种种真的很好看。也很有意思。主角是事…"
+  ],
+  "latest_season": 1,
+  "latest_season_date": "2026/10/12",
+  "ongoing": false
+ },
+ {
   "name": "天羽寿元",
   "gender": "男频",
   "seasons_n": 6,
@@ -2504,6 +2643,32 @@
   ],
   "latest_season": 8,
   "latest_season_date": "2026/10/04",
+  "ongoing": false
+ },
+ {
+  "name": "大佬，你该出手了",
+  "gender": "男频",
+  "seasons_n": 3,
+  "eps_est": 869,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "玄幻",
+   "修真",
+   "异界"
+  ],
+  "clean_hits": {
+   "后宫": 4,
+   "拖沓": 1
+  },
+  "clean_total": 5,
+  "reply_hits": 0,
+  "samples": [
+   "‼️本季没有开后宫❗（不知道后面会不会开[尬笑]）一直在走剧情，紧凑又好看！[鼓掌]这版比其他两版，…",
+   "‼️本季依旧没有后宫剧情‼️[鼓掌]打斗和特效都很顶级，剧情节奏又快又爽，男主简直是超人，太强了！！…"
+  ],
+  "latest_season": 3,
+  "latest_season_date": "2026/08/22",
   "ongoing": false
  },
  {
@@ -2566,6 +2731,33 @@
   "ongoing": false
  },
  {
+  "name": "失序偏爱完结篇",
+  "gender": "女频",
+  "seasons_n": 2,
+  "eps_est": 692,
+  "estimated": true,
+  "score": null,
+  "tags": [
+   "恋爱",
+   "穿越",
+   "豪门",
+   "都市"
+  ],
+  "clean_hits": {
+   "感情": 4,
+   "俗套": 1
+  },
+  "clean_total": 5,
+  "reply_hits": 0,
+  "samples": [
+   "剧情完全不俗套，男女主就是都有脑子也长嘴了，全剧矛盾冲突挺多的，完全不无聊。我两方都能理解，感觉两个…",
+   "…些 她害怕 但是喜欢归喜欢，没有那么深的感情。她也不知道男主喜欢她。"
+  ],
+  "latest_season": 2,
+  "latest_season_date": "2026/09/11",
+  "ongoing": false
+ },
+ {
   "name": "谁把我仙侠游戏退出键扣了3D版",
   "gender": "男频",
   "seasons_n": 4,
@@ -2623,6 +2815,64 @@
   ],
   "latest_season": 5,
   "latest_season_date": "2026/09/06",
+  "ongoing": false
+ },
+ {
+  "name": "我穿越灾年，带三个闺女去逃荒",
+  "gender": "男频",
+  "seasons_n": 1,
+  "eps_est": 639,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "脑洞",
+   "穿越",
+   "异能",
+   "求生",
+   "架空"
+  ],
+  "clean_hits": {
+   "拖沓": 2,
+   "圣母": 1,
+   "墨迹": 1,
+   "磨叽": 1
+  },
+  "clean_total": 5,
+  "reply_hits": 2,
+  "samples": [
+   "…，忍不住回来告诉大家，这剧贼好看，男主不圣母，杀伐果断，是短剧该有的样子，此剧必火，值得一追[赞][…",
+   "看多了女主有异能 在看男主的他的操控真果断[笑哭]一点不拖沓直接就是用[笑哭][笑哭]"
+  ],
+  "latest_season": 1,
+  "latest_season_date": "2026/10/08",
+  "ongoing": false
+ },
+ {
+  "name": "沐光归祁，岁岁清欢",
+  "gender": "女频",
+  "seasons_n": 2,
+  "eps_est": 637,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "恋爱",
+   "穿越",
+   "都市",
+   "豪门"
+  ],
+  "clean_hits": {
+   "感情": 2,
+   "狗血": 2,
+   "无脑": 1
+  },
+  "clean_total": 5,
+  "reply_hits": 0,
+  "samples": [
+   "…欢这部剧，但是我就感觉这部剧有些剧情有点狗血了吧，就是那个男主就送一个他的女医生朋友回家，我感觉这段…",
+   "…][爱慕][爱慕]非常非常非常的甜。不是无脑剧情，很日常，然后就是很有看头[爱慕][爱慕]非常喜欢女…"
+  ],
+  "latest_season": 2,
+  "latest_season_date": "2026/09/26",
   "ongoing": false
  },
  {
@@ -2803,6 +3053,36 @@
   "ongoing": false
  },
  {
+  "name": "我有座小荒山靠文旅火遍全世界",
+  "gender": "男频",
+  "seasons_n": 5,
+  "eps_est": 565,
+  "estimated": true,
+  "score": null,
+  "tags": [
+   "脑洞",
+   "穿越",
+   "系统",
+   "逆袭",
+   "乡村"
+  ],
+  "clean_hits": {
+   "拖沓": 1,
+   "墨迹": 1,
+   "注水": 1,
+   "磨叽": 1,
+   "敷衍": 1
+  },
+  "clean_total": 5,
+  "reply_hits": 2,
+  "samples": [
+   "我直接用最直白、最直接、最不绕弯、最不墨迹、最不废话、最不啰嗦、最不拖沓、最不磨叽、最不拐弯、最不兜…"
+  ],
+  "latest_season": 5,
+  "latest_season_date": "2026/10/28",
+  "ongoing": false
+ },
+ {
   "name": "拳十三之拳动乾坤",
   "gender": "男频",
   "seasons_n": 1,
@@ -2828,6 +3108,34 @@
   ],
   "latest_season": 1,
   "latest_season_date": "2026/10/04",
+  "ongoing": false
+ },
+ {
+  "name": "临死之前我吻了师尊",
+  "gender": "男频",
+  "seasons_n": 1,
+  "eps_est": 547,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "玄幻",
+   "重生",
+   "系统",
+   "异界"
+  ],
+  "clean_hits": {
+   "后宫": 3,
+   "圣母": 1,
+   "墨迹": 1
+  },
+  "clean_total": 5,
+  "reply_hits": 4,
+  "samples": [
+   "…论是服饰或是发饰，其次男主直接爽吃，从不墨迹（不像其他短剧又暧昧又太监），跟师尊是又甜又腻，两人是甜…",
+   "2026年10月13日周二。近 期最好的后宫漫剧没有之一，建模也不错整体看起来非常舒服，男主不圣母不…"
+  ],
+  "latest_season": 1,
+  "latest_season_date": "2026/10/13",
   "ongoing": false
  },
  {
@@ -2910,6 +3218,34 @@
   ],
   "latest_season": 5,
   "latest_season_date": "2026/08/28",
+  "ongoing": false
+ },
+ {
+  "name": "九恶妃每日一问，陛下驾崩了吗",
+  "gender": "女频",
+  "seasons_n": 8,
+  "eps_est": 2223,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "玄幻",
+   "穿越",
+   "系统",
+   "逆袭",
+   "异界"
+  ],
+  "clean_hits": {
+   "后宫": 3,
+   "憋屈": 1
+  },
+  "clean_total": 4,
+  "reply_hits": 1,
+  "samples": [
+   "目前来看只有晗妃是真心的，男主知道别人觊觎的都是他龙气，不会最后还都纳入后宫吧[捂脸]",
+   "这是后宫剧里看得最舒服的一部。该吃就吃，大吃特吃，变着花样吃，关键吃完还有后续感情线，不像有一些后宫…"
+  ],
+  "latest_season": 8,
+  "latest_season_date": "2026/10/25",
   "ongoing": false
  },
  {
@@ -3137,6 +3473,35 @@
   "ongoing": false
  },
  {
+  "name": "修仙不如干饭，我的伙房统治全宗了",
+  "gender": "男频",
+  "seasons_n": 7,
+  "eps_est": 1141,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "玄幻",
+   "穿越",
+   "系统",
+   "逆袭",
+   "异界"
+  ],
+  "clean_hits": {
+   "感情": 2,
+   "后宫": 1,
+   "感情戏": 1
+  },
+  "clean_total": 4,
+  "reply_hits": 2,
+  "samples": [
+   "…[顶帖][顶帖]完全就是搞笑番，男主没有感情戏，但是妥妥团宠，平时就在后方做做饭修修练，好多支线都是…",
+   "啊？这是后宫文呀，真的好喜欢第一季的氛围，大家都是好朋友，有一点团宠长青师弟的倾向（虽然是为了饭）。…"
+  ],
+  "latest_season": 7,
+  "latest_season_date": "2026/09/27",
+  "ongoing": false
+ },
+ {
   "name": "一年升一境凡人修仙之外门杂役",
   "gender": "男频",
   "seasons_n": 4,
@@ -3189,6 +3554,35 @@
   ],
   "latest_season": 5,
   "latest_season_date": "2026/10/20",
+  "ongoing": false
+ },
+ {
+  "name": "重生八零逆袭：从养猪场到商业帝国之崛起",
+  "gender": "男频",
+  "seasons_n": 9,
+  "eps_est": 1071,
+  "estimated": true,
+  "score": null,
+  "tags": [
+   "剧情",
+   "重生",
+   "逆袭",
+   "年代"
+  ],
+  "clean_hits": {
+   "圣母": 1,
+   "狗血": 1,
+   "拖沓": 1,
+   "磨叽": 1
+  },
+  "clean_total": 4,
+  "reply_hits": 0,
+  "samples": [
+   "…瘾。   这部短剧节奏十分紧凑，没有多余拖沓的戏份。前世受尽委屈、识人不清，被亲情、感情反复消耗；一…",
+   "这个重生八零的动漫真不错，没有闹心的狗血纠缠，也没有拎不清的拖油瓶，就连恶邻也没搞些上不了台面的阴损…"
+  ],
+  "latest_season": 9,
+  "latest_season_date": "2026/09/28",
   "ongoing": false
  },
  {
@@ -3277,6 +3671,62 @@
   "ongoing": false
  },
  {
+  "name": "家有五女，穿越来的他连夜搞事业啦",
+  "gender": "男频",
+  "seasons_n": 1,
+  "eps_est": 1000,
+  "estimated": false,
+  "score": 9.0,
+  "tags": [
+   "剧情",
+   "穿越",
+   "逆袭"
+  ],
+  "clean_hits": {
+   "后宫": 1,
+   "感情": 1,
+   "无脑": 1,
+   "吵死": 1
+  },
+  "clean_total": 4,
+  "reply_hits": 1,
+  "samples": [
+   "…大多是男主视角，女主挂边，但是男主没有开后宫，也没有和别的女人有牵扯，基本上都是做生意赚钱养家，看了…",
+   "…，无论是剧情，人物刻画，细节处理，也没有吵死人的背景音乐，没有无脑的独白，值得推荐！速度更新第二集，…"
+  ],
+  "latest_season": 1,
+  "latest_season_date": "2026/09/24",
+  "ongoing": false
+ },
+ {
+  "name": "乔影传奇：你说你惹她干嘛之乔影传",
+  "gender": "女频",
+  "seasons_n": 3,
+  "eps_est": 992,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "剧情",
+   "穿越",
+   "逆袭",
+   "都市"
+  ],
+  "clean_hits": {
+   "拖沓": 2,
+   "无脑": 1,
+   "注水": 1
+  },
+  "clean_total": 4,
+  "reply_hits": 1,
+  "samples": [
+   "…铺开。漫剧的人物画风精致流畅，节奏紧凑不拖沓，没有多余的注水情节。女主不是无脑爽，她的冷静、隐忍和杀…",
+   "…短剧真的很好看，内容特别丰富。剧情紧凑不拖沓，情节设计巧妙，人物形象鲜明立体，每个故事都有独特的亮点…"
+  ],
+  "latest_season": 3,
+  "latest_season_date": "2026/10/14",
+  "ongoing": false
+ },
+ {
   "name": "国降异界",
   "gender": "男频",
   "seasons_n": 6,
@@ -3362,31 +3812,6 @@
   "ongoing": false
  },
  {
-  "name": "大佬，你该出手了",
-  "gender": "男频",
-  "seasons_n": 3,
-  "eps_est": 869,
-  "estimated": false,
-  "score": null,
-  "tags": [
-   "玄幻",
-   "修真",
-   "异界"
-  ],
-  "clean_hits": {
-   "后宫": 4
-  },
-  "clean_total": 4,
-  "reply_hits": 0,
-  "samples": [
-   "‼️本季没有开后宫❗（不知道后面会不会开[尬笑]）一直在走剧情，紧凑又好看！[鼓掌]这版比其他两版，…",
-   "‼️本季依旧没有后宫剧情‼️[鼓掌]打斗和特效都很顶级，剧情节奏又快又爽，男主简直是超人，太强了！！…"
-  ],
-  "latest_season": 3,
-  "latest_season_date": "2026/08/22",
-  "ongoing": false
- },
- {
   "name": "超凡公路：我有头驴叫赤兔",
   "gender": "男频",
   "seasons_n": 4,
@@ -3439,6 +3864,36 @@
   ],
   "latest_season": 7,
   "latest_season_date": "2026/10/16",
+  "ongoing": false
+ },
+ {
+  "name": "携空间下乡，重生向阳而生",
+  "gender": "女频",
+  "seasons_n": 4,
+  "eps_est": 850,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "脑洞",
+   "重生",
+   "系统",
+   "囤物资",
+   "年代",
+   "乡村"
+  ],
+  "clean_hits": {
+   "拖沓": 2,
+   "憋屈": 1,
+   "吵死": 1
+  },
+  "clean_total": 4,
+  "reply_hits": 0,
+  "samples": [
+   "这部剧好啊，没有吵人的BGM，节奏也不拖沓",
+   "真好，像跟看电影电视剧那样，没有音乐那些吵死人的附带品"
+  ],
+  "latest_season": 4,
+  "latest_season_date": "2026/10/25",
   "ongoing": false
  },
  {
@@ -3571,7 +4026,7 @@
    "敷衍": 1
   },
   "clean_total": 4,
-  "reply_hits": 0,
+  "reply_hits": 1,
   "samples": [
    "…很现实，一步步解锁更基建，也没有一上来就后宫，虽然后宫很好看，但是慢慢来才符合穿越人的心理，总之好看…",
    "…8集，到结束都没看到主角的感情线，也没有无脑反派配角，大家都很努力，心思单纯善良，真事业流，爽死！全…"
@@ -3638,6 +4093,35 @@
   "ongoing": false
  },
  {
+  "name": "铁甲残明二百残兵随我镇辽东",
+  "gender": "男频",
+  "seasons_n": 3,
+  "eps_est": 770,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "剧情",
+   "穿越",
+   "逆袭",
+   "古代"
+  ],
+  "clean_hits": {
+   "白莲花": 1,
+   "无脑": 1,
+   "老套": 1,
+   "敷衍": 1
+  },
+  "clean_total": 4,
+  "reply_hits": 0,
+  "samples": [
+   "挺好，嗯现在还没有老套的情爱剧。",
+   "…大喊大叫。也不像朝堂斗争光打嘴炮，也没有白莲花，烂情无脑。只有真实的战场逼迫着军人负重前行，他们说大…"
+  ],
+  "latest_season": 3,
+  "latest_season_date": "2026/10/22",
+  "ongoing": false
+ },
+ {
   "name": "存款一天涨一亿，生活就像玩游戏",
   "gender": "男频",
   "seasons_n": 1,
@@ -3662,6 +4146,35 @@
   ],
   "latest_season": 1,
   "latest_season_date": "2026/10/14",
+  "ongoing": false
+ },
+ {
+  "name": "尘烬予你",
+  "gender": "女频",
+  "seasons_n": 3,
+  "eps_est": 763,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "恋爱",
+   "穿越",
+   "逆袭",
+   "都市",
+   "豪门"
+  ],
+  "clean_hits": {
+   "拖沓": 2,
+   "圣母": 1,
+   "墨迹": 1
+  },
+  "clean_total": 4,
+  "reply_hits": 2,
+  "samples": [
+   "…爆棚！总得来说虽然集数特别多但是台词没有拖沓让我没有想快进看的感觉！",
+   "这部剧男主女主建模很符合小说啊，剧情也不拖沓，真的值得推荐，看完之后的感受就是病娇男的强制爱，女主和…"
+  ],
+  "latest_season": 3,
+  "latest_season_date": "2026/10/20",
   "ongoing": false
  },
  {
@@ -3746,6 +4259,34 @@
   ],
   "latest_season": 2,
   "latest_season_date": "2026/10/16",
+  "ongoing": false
+ },
+ {
+  "name": "冤种兄妹绑错系统爆红了",
+  "gender": "待定",
+  "seasons_n": 4,
+  "eps_est": 745,
+  "estimated": true,
+  "score": null,
+  "tags": [
+   "脑洞",
+   "穿越",
+   "系统",
+   "架空"
+  ],
+  "clean_hits": {
+   "拖沓": 2,
+   "后宫": 1,
+   "恋爱": 1
+  },
+  "clean_total": 4,
+  "reply_hits": 0,
+  "samples": [
+   "顾明理和皇上萧烨没有谈恋爱，不是情侣，是君臣、知己挚友，哥哥靠着水利、工程、现代知识帮皇帝治水、革新…",
+   "最好看的一个版本，节奏快不拖沓，剧情详细还贼有意思，每一集都笑到停不下来[爱慕]哥哥含量极高！！！最…"
+  ],
+  "latest_season": 4,
+  "latest_season_date": "2026/10/02",
   "ongoing": false
  },
  {
@@ -3865,34 +4406,6 @@
   "ongoing": false
  },
  {
-  "name": "沐光归祁，岁岁清欢",
-  "gender": "女频",
-  "seasons_n": 2,
-  "eps_est": 637,
-  "estimated": false,
-  "score": null,
-  "tags": [
-   "恋爱",
-   "穿越",
-   "都市",
-   "豪门"
-  ],
-  "clean_hits": {
-   "狗血": 2,
-   "感情": 1,
-   "无脑": 1
-  },
-  "clean_total": 4,
-  "reply_hits": 0,
-  "samples": [
-   "…欢这部剧，但是我就感觉这部剧有些剧情有点狗血了吧，就是那个男主就送一个他的女医生朋友回家，我感觉这段…",
-   "…][爱慕][爱慕]非常非常非常的甜。不是无脑剧情，很日常，然后就是很有看头[爱慕][爱慕]非常喜欢女…"
-  ],
-  "latest_season": 2,
-  "latest_season_date": "2026/09/26",
-  "ongoing": false
- },
- {
   "name": "瓮葬法",
   "gender": "男频",
   "seasons_n": 5,
@@ -3976,34 +4489,6 @@
   "ongoing": false
  },
  {
-  "name": "临死之前我吻了师尊",
-  "gender": "男频",
-  "seasons_n": 1,
-  "eps_est": 547,
-  "estimated": false,
-  "score": null,
-  "tags": [
-   "玄幻",
-   "重生",
-   "系统",
-   "异界"
-  ],
-  "clean_hits": {
-   "后宫": 2,
-   "圣母": 1,
-   "墨迹": 1
-  },
-  "clean_total": 4,
-  "reply_hits": 3,
-  "samples": [
-   "…论是服饰或是发饰，其次男主直接爽吃，从不墨迹（不像其他短剧又暧昧又太监），跟师尊是又甜又腻，两人是甜…",
-   "2026年10月13日周二。近 期最好的后宫漫剧没有之一，建模也不错整体看起来非常舒服，男主不圣母不…"
-  ],
-  "latest_season": 1,
-  "latest_season_date": "2026/10/13",
-  "ongoing": false
- },
- {
   "name": "修仙界的灵植都听我的",
   "gender": "女频",
   "seasons_n": 2,
@@ -4080,7 +4565,7 @@
    "工具人": 1
   },
   "clean_total": 4,
-  "reply_hits": 0,
+  "reply_hits": 1,
   "samples": [
    "这个剧真好看，女主不圣母，杀伐果断，非常强大。大女主爽文[鼓掌][鼓掌][鼓掌]",
    "…快，女主很强，没有很气人的桥段，也没有大圣母，看的很爽[爱慕][爱慕][爱慕] 期待下一季[爱慕][…"
@@ -4113,34 +4598,6 @@
   ],
   "latest_season": 4,
   "latest_season_date": "2026/10/12",
-  "ongoing": false
- },
- {
-  "name": "九恶妃每日一问，陛下驾崩了吗",
-  "gender": "女频",
-  "seasons_n": 8,
-  "eps_est": 2223,
-  "estimated": false,
-  "score": null,
-  "tags": [
-   "玄幻",
-   "穿越",
-   "系统",
-   "逆袭",
-   "异界"
-  ],
-  "clean_hits": {
-   "后宫": 2,
-   "憋屈": 1
-  },
-  "clean_total": 3,
-  "reply_hits": 1,
-  "samples": [
-   "目前来看只有晗妃是真心的，男主知道别人觊觎的都是他龙气，不会最后还都纳入后宫吧[捂脸]",
-   "这是后宫剧里看得最舒服的一部。该吃就吃，大吃特吃，变着花样吃，关键吃完还有后续感情线，不像有一些后宫…"
-  ],
-  "latest_season": 8,
-  "latest_season_date": "2026/10/25",
   "ongoing": false
  },
  {
@@ -4228,6 +4685,55 @@
   "ongoing": false
  },
  {
+  "name": "父皇别慌，福星多多来啦",
+  "gender": "女频",
+  "seasons_n": 7,
+  "eps_est": 1426,
+  "estimated": true,
+  "score": null,
+  "tags": [
+   "萌宝",
+   "异能",
+   "古代"
+  ],
+  "clean_hits": {
+   "狗血": 2,
+   "墨迹": 1
+  },
+  "clean_total": 3,
+  "reply_hits": 0,
+  "samples": [
+   "…住的，是这份属于萌娃的纯粹与温暖——没有狗血宅斗，没有强行虐心，只有一个小福星用真心换真心的治愈故事…",
+   "…，小福星要守护的，不再只是一个家。 没有狗血宅斗，没有强行虐心，只有一个小福星用真心换真心的治愈故事…"
+  ],
+  "latest_season": 7,
+  "latest_season_date": "2026/10/24",
+  "ongoing": false
+ },
+ {
+  "name": "御狐：我的灵宠会变异",
+  "gender": "待定",
+  "seasons_n": 4,
+  "eps_est": 1328,
+  "estimated": true,
+  "score": null,
+  "tags": [],
+  "clean_hits": {
+   "感情": 1,
+   "感情戏": 1,
+   "拖沓": 1
+  },
+  "clean_total": 3,
+  "reply_hits": 0,
+  "samples": [
+   "…点喜欢男主[捂脸]这个女主不会是跟男主有感情戏吧？是纯爱还是后宫？",
+   "…那个版本精美丝滑更细腻，这个版本剧情快不拖沓，更新得也快，刚好可以拿来解解馋。两个版本一起追"
+  ],
+  "latest_season": 0,
+  "latest_season_date": "",
+  "ongoing": false
+ },
+ {
   "name": "绿龙冠冕",
   "gender": "男频",
   "seasons_n": 2,
@@ -4252,6 +4758,31 @@
   ],
   "latest_season": 2,
   "latest_season_date": "2026/10/05",
+  "ongoing": false
+ },
+ {
+  "name": "白月光冠冕",
+  "gender": "女频",
+  "seasons_n": 2,
+  "eps_est": 1312,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "脑洞",
+   "都市",
+   "豪门"
+  ],
+  "clean_hits": {
+   "感情": 3
+  },
+  "clean_total": 3,
+  "reply_hits": 1,
+  "samples": [
+   "…极重颜面，行事利益为先。这一整季虽然没有感情线，但是整体剧情铺垫的很好，编剧水准真的很高。期待第二季…",
+   "… 这部剧真的是我这个月追的最上头的 不止感情线有趣 改变剧情这条线也是相当有意思 现在进度才20% …"
+  ],
+  "latest_season": 2,
+  "latest_season_date": "2026/10/23",
   "ongoing": false
  },
  {
@@ -4295,68 +4826,13 @@
    "拖沓": 1
   },
   "clean_total": 3,
-  "reply_hits": 1,
+  "reply_hits": 2,
   "samples": [
    "…，前排提示：应该算轻百？无男变女，无狗血感情线， 总体好评。我已经准备好大吃八百集了[害羞]",
    "集数长，但剧情不拖沓，九大魔女的“背刺”另有隐情，不是勾心斗角的故事，每一位女性角色都有自己的特点、…"
   ],
   "latest_season": 1,
   "latest_season_date": "2026/10/05",
-  "ongoing": false
- },
- {
-  "name": "重生八零逆袭：从养猪场到商业帝国之崛起",
-  "gender": "男频",
-  "seasons_n": 9,
-  "eps_est": 1071,
-  "estimated": true,
-  "score": null,
-  "tags": [
-   "剧情",
-   "重生",
-   "逆袭",
-   "年代"
-  ],
-  "clean_hits": {
-   "狗血": 1,
-   "拖沓": 1,
-   "磨叽": 1
-  },
-  "clean_total": 3,
-  "reply_hits": 0,
-  "samples": [
-   "…瘾。   这部短剧节奏十分紧凑，没有多余拖沓的戏份。前世受尽委屈、识人不清，被亲情、感情反复消耗；一…",
-   "这个重生八零的动漫真不错，没有闹心的狗血纠缠，也没有拎不清的拖油瓶，就连恶邻也没搞些上不了台面的阴损…"
-  ],
-  "latest_season": 9,
-  "latest_season_date": "2026/09/28",
-  "ongoing": false
- },
- {
-  "name": "家有五女，穿越来的他连夜搞事业啦",
-  "gender": "男频",
-  "seasons_n": 1,
-  "eps_est": 1000,
-  "estimated": false,
-  "score": 9.0,
-  "tags": [
-   "剧情",
-   "穿越",
-   "逆袭"
-  ],
-  "clean_hits": {
-   "后宫": 1,
-   "无脑": 1,
-   "吵死": 1
-  },
-  "clean_total": 3,
-  "reply_hits": 0,
-  "samples": [
-   "…大多是男主视角，女主挂边，但是男主没有开后宫，也没有和别的女人有牵扯，基本上都是做生意赚钱养家，看了…",
-   "…，无论是剧情，人物刻画，细节处理，也没有吵死人的背景音乐，没有无脑的独白，值得推荐！速度更新第二集，…"
-  ],
-  "latest_season": 1,
-  "latest_season_date": "2026/09/24",
   "ongoing": false
  },
  {
@@ -4385,6 +4861,32 @@
   "ongoing": false
  },
  {
+  "name": "我家山庄通异界，古代员工抢着来",
+  "gender": "女频",
+  "seasons_n": 1,
+  "eps_est": 1000,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "脑洞",
+   "系统",
+   "乡村"
+  ],
+  "clean_hits": {
+   "圣母": 2,
+   "敷衍": 1
+  },
+  "clean_total": 3,
+  "reply_hits": 6,
+  "samples": [
+   "…有cp至少目前一千集没有 也没有盲目扶贫圣母 大家都有自己的故事线 每一个人都在努力的靠自己的双手活…",
+   "看过小说，很好看，女主很善良，希望不会被骂圣母，她是真的很善良，不令人反感的善良"
+  ],
+  "latest_season": 1,
+  "latest_season_date": "2026/10/01",
+  "ongoing": false
+ },
+ {
   "name": "我真不是大佬啊奈何全宗都是老六",
   "gender": "男频",
   "seasons_n": 1,
@@ -4402,7 +4904,7 @@
    "拖沓": 1
   },
   "clean_total": 3,
-  "reply_hits": 0,
+  "reply_hits": 1,
   "samples": [
    "…， 二、我想看末日类型；女主呢特厉害不是恋爱脑；杀伐果断大姐大最好😍有一群小弟小弟也厉害[笑] 三、…",
    "这部动漫热血剧真的燃爆了！剧情紧凑不拖沓，主角从低谷到巅峰的逆袭之路看得人热血沸腾。尤其是高潮部分的…"
@@ -4464,30 +4966,26 @@
   "ongoing": false
  },
  {
-  "name": "乔影传奇：你说你惹她干嘛之乔影传",
-  "gender": "女频",
-  "seasons_n": 3,
-  "eps_est": 992,
+  "name": "作死系统，非要让我去闯祸",
+  "gender": "待定",
+  "seasons_n": 1,
+  "eps_est": 999,
   "estimated": false,
   "score": null,
-  "tags": [
-   "剧情",
-   "穿越",
-   "逆袭",
-   "都市"
-  ],
+  "tags": [],
   "clean_hits": {
-   "拖沓": 1,
-   "无脑": 1,
-   "注水": 1
+   "后宫": 1,
+   "感情": 1,
+   "无脑": 1
   },
   "clean_total": 3,
   "reply_hits": 1,
   "samples": [
-   "…铺开。漫剧的人物画风精致流畅，节奏紧凑不拖沓，没有多余的注水情节。女主不是无脑爽，她的冷静、隐忍和杀…"
+   "…生的决绝一路拼杀下来，没有儿女私情，没有无脑的拖泥带水，这么多集数几乎没有配乐，真是难得，主创辛苦了…",
+   "…写古诗词的风光。后面演的全是连环计，没有后宫，极少谈情说爱。男主城府深，后面的女主也脑子跟得上，这部…"
   ],
-  "latest_season": 3,
-  "latest_season_date": "2026/10/14",
+  "latest_season": 0,
+  "latest_season_date": "",
   "ongoing": false
  },
  {
@@ -4543,6 +5041,35 @@
   ],
   "latest_season": 2,
   "latest_season_date": "2026/10/09",
+  "ongoing": false
+ },
+ {
+  "name": "末世躺赢指南：到末世十年后",
+  "gender": "男频",
+  "seasons_n": 3,
+  "eps_est": 949,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "末世",
+   "穿越",
+   "求生",
+   "逆袭",
+   "都市"
+  ],
+  "clean_hits": {
+   "后宫": 1,
+   "墨迹": 1,
+   "无脑": 1
+  },
+  "clean_total": 3,
+  "reply_hits": 0,
+  "samples": [
+   "… 很喜欢第二季的人设延续！李星月依旧不是无脑战力天花板，靠情报和布局求生，暴君、修女几位尸王的戏份穿…",
+   "希望男主不要有后宫，我喜欢男主没有后宫，然后那些尸王尸皇都当他是弟弟，都是一家人。"
+  ],
+  "latest_season": 3,
+  "latest_season_date": "2026/10/25",
   "ongoing": false
  },
  {
@@ -4644,7 +5171,7 @@
    "出戏": 1
   },
   "clean_total": 3,
-  "reply_hits": 1,
+  "reply_hits": 2,
   "samples": [
    "…爷和各位族老甚至全村人一心过日子，不广开后宫不搞Cp不忘初心一如既往的科举带动族人发家致富！",
    "…打动人的地方，是“全族托举”的内核。没有无脑开挂，能看到寒门读书的万般艰难。秦浩然牢记族人恩情，寒窗…"
@@ -4681,6 +5208,33 @@
   "ongoing": false
  },
  {
+  "name": "为见妹妹，我种出一条仙路",
+  "gender": "女频",
+  "seasons_n": 3,
+  "eps_est": 900,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "玄幻",
+   "异能",
+   "异界"
+  ],
+  "clean_hits": {
+   "后宫": 1,
+   "感情": 1,
+   "无脑": 1
+  },
+  "clean_total": 3,
+  "reply_hits": 0,
+  "samples": [
+   "…难女人了，每集时长也很不错。 目前也没有感情线好评！（以后有的话再来改成差评） 另外快点第二季啊[怒…",
+   "非常好看，没有强行冲突，没有无脑剧情，没有人为cp，有的是亲情，友情，温情，都说大道无情，却是东边日…"
+  ],
+  "latest_season": 3,
+  "latest_season_date": "2026/10/12",
+  "ongoing": false
+ },
+ {
   "name": "夫君战死五年归来：我携婆家出族",
   "gender": "男频",
   "seasons_n": 3,
@@ -4706,6 +5260,34 @@
   ],
   "latest_season": 3,
   "latest_season_date": "2026/10/20",
+  "ongoing": false
+ },
+ {
+  "name": "满院亲戚全是上古大妖",
+  "gender": "女频",
+  "seasons_n": 5,
+  "eps_est": 818,
+  "estimated": false,
+  "score": 9.1,
+  "tags": [
+   "奇幻",
+   "年代",
+   "205",
+   "修真"
+  ],
+  "clean_hits": {
+   "感情": 1,
+   "感情戏": 1,
+   "烂尾": 1
+  },
+  "clean_total": 3,
+  "reply_hits": 8,
+  "samples": [
+   "请记住：绝对不许断更，不许烂尾，不许砸招牌，速速保质保量快马加鞭夜以继日地更新！！",
+   "…女主还是貌美如花-所以他们两个一直都没有感情戏-女主也知道人妖殊途人的一生很短一直都不敢付出太多-一…"
+  ],
+  "latest_season": 5,
+  "latest_season_date": "2026/10/14",
   "ongoing": false
  },
  {
@@ -4737,59 +5319,32 @@
   "ongoing": false
  },
  {
-  "name": "铁甲残明二百残兵随我镇辽东",
+  "name": "高武战神：一杆长枪御万敌",
   "gender": "男频",
-  "seasons_n": 3,
-  "eps_est": 770,
+  "seasons_n": 1,
+  "eps_est": 785,
   "estimated": false,
   "score": null,
   "tags": [
-   "剧情",
-   "穿越",
+   "脑洞",
+   "系统",
+   "战斗",
    "逆袭",
-   "古代"
+   "都市"
   ],
   "clean_hits": {
-   "白莲花": 1,
-   "无脑": 1,
-   "敷衍": 1
-  },
-  "clean_total": 3,
-  "reply_hits": 0,
-  "samples": [
-   "…大喊大叫。也不像朝堂斗争光打嘴炮，也没有白莲花，烂情无脑。只有真实的战场逼迫着军人负重前行，他们说大…",
-   "…有出现重复的脸，也没有啥说错的台词，不是敷衍的做出来的产物。 我给它满星，希望更多人能发现并看到它。"
-  ],
-  "latest_season": 3,
-  "latest_season_date": "2026/10/22",
-  "ongoing": false
- },
- {
-  "name": "尘烬予你",
-  "gender": "女频",
-  "seasons_n": 3,
-  "eps_est": 763,
-  "estimated": false,
-  "score": null,
-  "tags": [
-   "恋爱",
-   "穿越",
-   "逆袭",
-   "都市",
-   "豪门"
-  ],
-  "clean_hits": {
-   "拖沓": 2,
-   "墨迹": 1
+   "圣母": 1,
+   "恋爱": 1,
+   "拖沓": 1
   },
   "clean_total": 3,
   "reply_hits": 2,
   "samples": [
-   "…爆棚！总得来说虽然集数特别多但是台词没有拖沓让我没有想快进看的感觉！",
-   "这部剧男主女主建模很符合小说啊，剧情也不拖沓，真的值得推荐，看完之后的感受就是病娇男的强制爱，女主和…"
+   "前面剧情挺好的，不拖沓，后面怎么回事？聊天聊十几集，讲故事讲十几集，杀个怪杀十几集？看的真的很烧心。",
+   "这个女人会不会也是圣母，"
   ],
-  "latest_season": 3,
-  "latest_season_date": "2026/10/20",
+  "latest_season": 1,
+  "latest_season_date": "2026/10/18",
   "ongoing": false
  },
  {
@@ -4811,13 +5366,40 @@
    "狗血": 1
   },
   "clean_total": 3,
-  "reply_hits": 3,
+  "reply_hits": 4,
   "samples": [
    "好看，我以为700多集是注水的文章。这是我第1次看700多集的，没有注水，节奏也很好，虽然节奏有点慢…",
    "…长卷。没有刻意的狗血冲突，没有仓促的剧情注水，一集一集娓娓道来，看完第一季依旧意犹未尽，妥妥的短剧宝…"
   ],
   "latest_season": 1,
   "latest_season_date": "2026/10/11",
+  "ongoing": false
+ },
+ {
+  "name": "冰冷重遇",
+  "gender": "女频",
+  "seasons_n": 8,
+  "eps_est": 722,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "恋爱",
+   "都市",
+   "豪门"
+  ],
+  "clean_hits": {
+   "恋爱": 1,
+   "感情": 1,
+   "绿茶": 1
+  },
+  "clean_total": 3,
+  "reply_hits": 3,
+  "samples": [
+   "…男女主双向在意的拉扯氛围感拉满，跳出单纯恋爱，加入豪门阴谋剧情。依旧存在古早虐恋套路，误会反复上演，…",
+   "“总之我跟景琛哥哥在一起的时候，该做过的都做过了，但分手后我们不会再有牵扯”也是个小绿茶[笑哭]"
+  ],
+  "latest_season": 8,
+  "latest_season_date": "2026/09/19",
   "ongoing": false
  },
  {
@@ -4838,13 +5420,42 @@
    "俗套": 1
   },
   "clean_total": 3,
-  "reply_hits": 6,
+  "reply_hits": 7,
   "samples": [
    "…得好轻松啊，就是很平淡，也没有什么特别的狗血套路情节，淡淡的又很搞笑又有一点小暧昧，甜甜的。而且男主…",
    "… 男主更不用说了超帅的 剧情也是一点都没俗套的剧情 很真实都很有活人感，还有男主太有性张力了 超级甜…"
   ],
   "latest_season": 2,
   "latest_season_date": "2026/10/23",
+  "ongoing": false
+ },
+ {
+  "name": "爹爹入赘我暴富啦",
+  "gender": "女频",
+  "seasons_n": 5,
+  "eps_est": 693,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "脑洞",
+   "重生",
+   "逆袭",
+   "年代",
+   "乡村"
+  ],
+  "clean_hits": {
+   "拖沓": 1,
+   "憋屈": 1,
+   "洗白": 1
+  },
+  "clean_total": 3,
+  "reply_hits": 1,
+  "samples": [
+   "…造型太出戏，和周围人感觉不在同一年代。不洗白珍珠，平心而论，她两辈子都过的没多好。女主也提到，之前珍…",
+   "…短剧真的很好看，内容特别丰富。剧情紧凑不拖沓，情节设计巧妙，人物形象鲜明立体，每个故事都有独特的亮点…"
+  ],
+  "latest_season": 5,
+  "latest_season_date": "2026/10/25",
   "ongoing": false
  },
  {
@@ -4900,6 +5511,34 @@
   ],
   "latest_season": 7,
   "latest_season_date": "2026/10/24",
+  "ongoing": false
+ },
+ {
+  "name": "美颜系统开挂，大佬全跪下",
+  "gender": "女频",
+  "seasons_n": 3,
+  "eps_est": 657,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "脑洞",
+   "重生",
+   "系统",
+   "逆袭",
+   "都市"
+  ],
+  "clean_hits": {
+   "舔狗": 2,
+   "绿茶": 1
+  },
+  "clean_total": 3,
+  "reply_hits": 7,
+  "samples": [
+   "…漂亮。没有人格魅力没有善良 善妒心机海王绿茶 辜负真心的虚伪朋友，竟然还能俘获所有男的心 、害善良的…",
+   "…过为何假的，DNA居然能合适，是不是这个舔狗做的手脚，我没看前面的不知道[笑哭][捂脸]"
+  ],
+  "latest_season": 3,
+  "latest_season_date": "2026/10/04",
   "ongoing": false
  },
  {
@@ -4983,34 +5622,6 @@
   ],
   "latest_season": 5,
   "latest_season_date": "2026/09/19",
-  "ongoing": false
- },
- {
-  "name": "我穿越灾年，带三个闺女去逃荒",
-  "gender": "男频",
-  "seasons_n": 1,
-  "eps_est": 639,
-  "estimated": false,
-  "score": null,
-  "tags": [
-   "脑洞",
-   "穿越",
-   "异能",
-   "求生",
-   "架空"
-  ],
-  "clean_hits": {
-   "拖沓": 2,
-   "墨迹": 1
-  },
-  "clean_total": 3,
-  "reply_hits": 0,
-  "samples": [
-   "看多了女主有异能 在看男主的他的操控真果断[笑哭]一点不拖沓直接就是用[笑哭][笑哭]",
-   "…还不错，集数也挺不错，主角做事干净利落不拖沓，就是人物形象变来变去的，配音忽男忽女的，三个女儿也是忽…"
-  ],
-  "latest_season": 1,
-  "latest_season_date": "2026/10/08",
   "ongoing": false
  },
  {
@@ -5099,6 +5710,29 @@
   "ongoing": false
  },
  {
+  "name": "洪荒守门人",
+  "gender": "待定",
+  "seasons_n": 2,
+  "eps_est": 626,
+  "estimated": false,
+  "score": null,
+  "tags": [],
+  "clean_hits": {
+   "感情": 1,
+   "狗血": 1,
+   "吵死": 1
+  },
+  "clean_total": 3,
+  "reply_hits": 2,
+  "samples": [
+   "制作的特别好，没有穿模，没有狗血剧情，体系从头到尾都没崩，剧情合理。这是我看过的最最最佳的仙品。不过…",
+   "这种剧才适合看，背景音乐好听声音还不大，不像有些剧背景音乐吵死人，看都看不下去"
+  ],
+  "latest_season": 0,
+  "latest_season_date": "",
+  "ongoing": false
+ },
+ {
   "name": "游戏入侵：普攻加血一箭亿万伤屠戮神明",
   "gender": "男频",
   "seasons_n": 1,
@@ -5118,7 +5752,7 @@
    "无脑": 1
   },
   "clean_total": 3,
-  "reply_hits": 0,
+  "reply_hits": 1,
   "samples": [
    "…杀的纯无脑爽文，集数很长，没有乱七八糟的后宫，至少我看了四百集也没看见那种莫名其妙来个女人往上贴的剧…",
    "不是无脑爽剧，是碟中谍战中战，男主战商极高，凭借前世肌肉记忆，破局能力特别强，虽然也有被全程通缉的时…"
@@ -5296,27 +5930,6 @@
   "ongoing": false
  },
  {
-  "name": "皇位你们争，我在关外当霸主",
-  "gender": "待定",
-  "seasons_n": 1,
-  "eps_est": 583,
-  "estimated": false,
-  "score": null,
-  "tags": [],
-  "clean_hits": {
-   "后宫": 3
-  },
-  "clean_total": 3,
-  "reply_hits": 0,
-  "samples": [
-   "…主进退有度,决策果断,且目前纯搞事业不是后宫！不足的点就是人物建模有时候不太稳定,打斗场面的制作方面…",
-   "暂无后宫，但主角真的超多前女友啊，都是因为前女友学到了什么什么。打仗还是挺喜欢看的，打仗基建富强都很…"
-  ],
-  "latest_season": 0,
-  "latest_season_date": "",
-  "ongoing": false
- },
- {
   "name": "我转生成了毒液",
   "gender": "女频",
   "seasons_n": 4,
@@ -5401,6 +6014,35 @@
   "ongoing": true
  },
  {
+  "name": "实习教师之我把倒数班带成传奇",
+  "gender": "男频",
+  "seasons_n": 3,
+  "eps_est": 544,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "脑洞",
+   "系统",
+   "逆袭",
+   "热血",
+   "都市",
+   "校园"
+  ],
+  "clean_hits": {
+   "无脑": 2,
+   "拖沓": 1
+  },
+  "clean_total": 3,
+  "reply_hits": 1,
+  "samples": [
+   "…反派挺惹人嫌的，但行为符合逻辑，不是那种无脑恶毒。 非常好看的剧，第二季速度啊。",
+   "…之间的互动沟通 但是故事新颖 架构紧凑不拖沓 情节暖心 亦师亦友 师生情谊 给我这个四十多的老登都看…"
+  ],
+  "latest_season": 3,
+  "latest_season_date": "2026/10/13",
+  "ongoing": false
+ },
+ {
   "name": "杀戮崛起之永夜君王",
   "gender": "男频",
   "seasons_n": 7,
@@ -5453,6 +6095,35 @@
   "ongoing": false
  },
  {
+  "name": "母亲是巨龙我咋是山海异兽呢",
+  "gender": "男频",
+  "seasons_n": 6,
+  "eps_est": 541,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "奇幻",
+   "穿越",
+   "逆袭",
+   "系统",
+   "异界"
+  ],
+  "clean_hits": {
+   "后宫": 1,
+   "恋爱": 1,
+   "感情戏": 1
+  },
+  "clean_total": 3,
+  "reply_hits": 0,
+  "samples": [
+   "…就已经知道后续走向了，估计后面还会化形谈恋爱，如果跟前期一直走吞噬路线不偏向恋爱的话的确还行，但也许…",
+   "这一季不会只演男主后宫团的故事吧[什么][什么][什么]"
+  ],
+  "latest_season": 6,
+  "latest_season_date": "2026/10/03",
+  "ongoing": false
+ },
+ {
   "name": "锦书难托，我自成峰",
   "gender": "女频",
   "seasons_n": 2,
@@ -5477,6 +6148,35 @@
   ],
   "latest_season": 2,
   "latest_season_date": "2026/09/26",
+  "ongoing": false
+ },
+ {
+  "name": "吞噬黑光",
+  "gender": "男频",
+  "seasons_n": 3,
+  "eps_est": 531,
+  "estimated": true,
+  "score": null,
+  "tags": [
+   "脑洞",
+   "穿越",
+   "系统",
+   "异能",
+   "都市"
+  ],
+  "clean_hits": {
+   "拖沓": 1,
+   "墨迹": 1,
+   "绿茶": 1
+  },
+  "clean_total": 3,
+  "reply_hits": 0,
+  "samples": [
+   "那个女的不会是之前那个粉头发绿茶吧？",
+   "一点都不墨迹这剧情，也清晰看得懂每一步在干嘛，超喜欢的一部剧，加油啊。也不要为了进度丢失水准。希望尽…"
+  ],
+  "latest_season": 3,
+  "latest_season_date": "2026/10/03",
   "ongoing": false
  },
  {
@@ -5506,6 +6206,34 @@
   ],
   "latest_season": 2,
   "latest_season_date": "2026/09/06",
+  "ongoing": false
+ },
+ {
+  "name": "变身顶美，有颜真能为所欲为",
+  "gender": "女频",
+  "seasons_n": 2,
+  "eps_est": 510,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "剧情",
+   "穿越",
+   "都市",
+   "职场"
+  ],
+  "clean_hits": {
+   "恋爱": 1,
+   "憋屈": 1,
+   "俗套": 1
+  },
+  "clean_total": 3,
+  "reply_hits": 4,
+  "samples": [
+   "…惬意，第二季一直在应付烂桃花，有些无聊和俗套，完全是因为太喜欢这个女主的建模了才坚持看完第二季[捂脸…",
+   "有点理解红颜薄命这句话了。主角没背景，天天被人毛手毛脚的，又被造谣，继承了遗产之后生活才没那么憋屈。"
+  ],
+  "latest_season": 2,
+  "latest_season_date": "2026/10/01",
   "ongoing": false
  },
  {
@@ -5673,6 +6401,32 @@
   "ongoing": false
  },
  {
+  "name": "我都元婴期了，你跟我说开学",
+  "gender": "男频",
+  "seasons_n": 3,
+  "eps_est": 1851,
+  "estimated": false,
+  "score": 8.0,
+  "tags": [
+   "玄幻",
+   "穿越",
+   "战斗",
+   "都市"
+  ],
+  "clean_hits": {
+   "拖沓": 2
+  },
+  "clean_total": 2,
+  "reply_hits": 0,
+  "samples": [
+   "…断的，整部剧的剧情节奏是比较快的，没有很拖沓。对于男主角的处事风格，看起来还是较爽的。整篇的女性角色…",
+   "…短剧真的很好看，内容特别丰富。剧情紧凑不拖沓，情节设计巧妙，人物形象鲜明立体，每个故事都有独特的亮点…"
+  ],
+  "latest_season": 3,
+  "latest_season_date": "2026/10/18",
+  "ongoing": false
+ },
+ {
   "name": "看我赶山养家两情相悦",
   "gender": "男频",
   "seasons_n": 3,
@@ -5729,31 +6483,6 @@
   "ongoing": false
  },
  {
-  "name": "父皇别慌，福星多多来啦",
-  "gender": "女频",
-  "seasons_n": 7,
-  "eps_est": 1426,
-  "estimated": true,
-  "score": null,
-  "tags": [
-   "萌宝",
-   "异能",
-   "古代"
-  ],
-  "clean_hits": {
-   "狗血": 2
-  },
-  "clean_total": 2,
-  "reply_hits": 0,
-  "samples": [
-   "…住的，是这份属于萌娃的纯粹与温暖——没有狗血宅斗，没有强行虐心，只有一个小福星用真心换真心的治愈故事…",
-   "…，小福星要守护的，不再只是一个家。 没有狗血宅斗，没有强行虐心，只有一个小福星用真心换真心的治愈故事…"
-  ],
-  "latest_season": 7,
-  "latest_season_date": "2026/10/24",
-  "ongoing": false
- },
- {
   "name": "末世降临，我是末日生存方案供应商",
   "gender": "男频",
   "seasons_n": 3,
@@ -5779,52 +6508,6 @@
   ],
   "latest_season": 3,
   "latest_season_date": "2026/10/27",
-  "ongoing": false
- },
- {
-  "name": "御狐：我的灵宠会变异",
-  "gender": "待定",
-  "seasons_n": 4,
-  "eps_est": 1328,
-  "estimated": true,
-  "score": null,
-  "tags": [],
-  "clean_hits": {
-   "感情": 1,
-   "感情戏": 1
-  },
-  "clean_total": 2,
-  "reply_hits": 0,
-  "samples": [
-   "…点喜欢男主[捂脸]这个女主不会是跟男主有感情戏吧？是纯爱还是后宫？"
-  ],
-  "latest_season": 0,
-  "latest_season_date": "",
-  "ongoing": false
- },
- {
-  "name": "白月光冠冕",
-  "gender": "女频",
-  "seasons_n": 2,
-  "eps_est": 1312,
-  "estimated": false,
-  "score": null,
-  "tags": [
-   "脑洞",
-   "都市",
-   "豪门"
-  ],
-  "clean_hits": {
-   "感情": 2
-  },
-  "clean_total": 2,
-  "reply_hits": 0,
-  "samples": [
-   "…极重颜面，行事利益为先。这一整季虽然没有感情线，但是整体剧情铺垫的很好，编剧水准真的很高。期待第二季…",
-   "… 这部剧真的是我这个月追的最上头的 不止感情线有趣 改变剧情这条线也是相当有意思 现在进度才20% …"
-  ],
-  "latest_season": 2,
-  "latest_season_date": "2026/10/23",
   "ongoing": false
  },
  {
@@ -5855,30 +6538,105 @@
   "ongoing": false
  },
  {
-  "name": "修仙不如干饭，我的伙房统治全宗了",
+  "name": "南塘县令有亿点强",
   "gender": "男频",
-  "seasons_n": 7,
-  "eps_est": 1141,
+  "seasons_n": 3,
+  "eps_est": 1224,
   "estimated": false,
   "score": null,
   "tags": [
-   "玄幻",
-   "穿越",
-   "系统",
+   "剧情",
    "逆袭",
-   "异界"
+   "架空"
   ],
   "clean_hits": {
    "感情": 1,
-   "感情戏": 1
+   "无脑": 1
   },
   "clean_total": 2,
-  "reply_hits": 2,
+  "reply_hits": 1,
   "samples": [
-   "…[顶帖][顶帖]完全就是搞笑番，男主没有感情戏，但是妥妥团宠，平时就在后方做做饭修修练，好多支线都是…"
+   "…联手围杀，凶险藏在玩笑背后。 他从来不是无脑莽夫，只是懒得跟坏人虚与委蛇。看吴心继续用自己的方式搅翻…",
+   "只要没有黏糊糊的爱情CP感情线，这个剧就值得一直追"
+  ],
+  "latest_season": 3,
+  "latest_season_date": "2026/10/23",
+  "ongoing": false
+ },
+ {
+  "name": "神女渡众生乱世赐粮安万民",
+  "gender": "女频",
+  "seasons_n": 7,
+  "eps_est": 1218,
+  "estimated": true,
+  "score": null,
+  "tags": [
+   "脑洞",
+   "穿越",
+   "系统",
+   "古代"
+  ],
+  "clean_hits": {
+   "圣母": 1,
+   "洗白": 1
+  },
+  "clean_total": 2,
+  "reply_hits": 1,
+  "samples": [
+   "这国师就不能洗白啊，聊上原生家庭了还，就他不容易吗，他有了权利就开始恃强凌弱，变得傲慢，他说他弱小可…",
+   "…有一个系统而已，我不会后悔杀他们乱世必杀圣母，背景是乱世，密码你们觉得乱世会不会这样"
   ],
   "latest_season": 7,
-  "latest_season_date": "2026/09/27",
+  "latest_season_date": "2026/10/02",
+  "ongoing": false
+ },
+ {
+  "name": "说我是反派：我成了气运克星者",
+  "gender": "待定",
+  "seasons_n": 2,
+  "eps_est": 1214,
+  "estimated": false,
+  "score": null,
+  "tags": [],
+  "clean_hits": {
+   "后宫": 2
+  },
+  "clean_total": 2,
+  "reply_hits": 0,
+  "samples": [
+   "…气运之子为主线任务的剧情[爱慕] 全局无后宫，无女主，作为反派的男主一路杀伐果断，全程一路成长一路爽…",
+   "…进来的朋友介绍一下看点：本剧无女主、不走后宫线，重点放在秦洛的行动、谋划与成长上。 整部剧围绕大秦帝…"
+  ],
+  "latest_season": 0,
+  "latest_season_date": "",
+  "ongoing": false
+ },
+ {
+  "name": "重生暴雪来临：我囤货求生",
+  "gender": "女频",
+  "seasons_n": 2,
+  "eps_est": 1179,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "末世",
+   "重生",
+   "囤物资",
+   "求生",
+   "都市"
+  ],
+  "clean_hits": {
+   "圣母": 1,
+   "墨迹": 1
+  },
+  "clean_total": 2,
+  "reply_hits": 4,
+  "samples": [
+   "…，甚至让我觉得是个男作者写的。大女主，不墨迹，没有一大堆讲道理，有矛盾不BB，等没人的时候解决发出矛…",
+   "虽然但是我不知道这是不是圣母，明知道末日马上要来了，还卖房子坑人家，如果不知道就算了"
+  ],
+  "latest_season": 2,
+  "latest_season_date": "2026/10/03",
   "ongoing": false
  },
  {
@@ -5908,6 +6666,31 @@
   "ongoing": false
  },
  {
+  "name": "步步深陷",
+  "gender": "女频",
+  "seasons_n": 6,
+  "eps_est": 1061,
+  "estimated": true,
+  "score": null,
+  "tags": [
+   "家族",
+   "古代"
+  ],
+  "clean_hits": {
+   "圣母": 1,
+   "憋屈": 1
+  },
+  "clean_total": 2,
+  "reply_hits": 0,
+  "samples": [
+   "…主做局赶走了，可以说这一季女主是一点也不憋屈。反正后续应该是女主一直硬气起来，没人能欺负她了，就是被…",
+   "支持女主[吃瓜][爱心][爱心]不心软不圣母不被欺负过自己的烂人亲戚绑架[做鬼脸][做鬼脸]"
+  ],
+  "latest_season": 6,
+  "latest_season_date": "2026/10/20",
+  "ongoing": false
+ },
+ {
   "name": "全球躲猫猫：我是林岁安",
   "gender": "女频",
   "seasons_n": 4,
@@ -5926,7 +6709,7 @@
    "大叫": 1
   },
   "clean_total": 2,
-  "reply_hits": 0,
+  "reply_hits": 1,
   "samples": [
    "…女主林岁安的人物成长。她的强大，从来不是无脑碾压敌人，而是历经十五年被当成疯子囚禁的孤独，看过无数玩…",
    "还得是这个版本，建模好看又真实，人物性格立体细腻[送心]不像别的ai动漫版本像疯子一样大喊大叫"
@@ -6005,13 +6788,39 @@
    "后宫": 2
   },
   "clean_total": 2,
-  "reply_hits": 5,
+  "reply_hits": 7,
   "samples": [
    "就是冲后宫剧来的，那个崔清月竟然不是后宫？不是后宫建模建的那么好干求，有没有知道到底有几个女主",
    "看评论区一直讨论后宫不后宫的，我说一下我的看法，首先这个剧一定是好剧，没有一个剧情是多余的，剧情紧凑…"
   ],
   "latest_season": 3,
   "latest_season_date": "2026/10/28",
+  "ongoing": false
+ },
+ {
+  "name": "拒绝内耗！穿书后我靠囤货苟成团宠了",
+  "gender": "女频",
+  "seasons_n": 1,
+  "eps_est": 1000,
+  "estimated": false,
+  "score": 8.6,
+  "tags": [
+   "脑洞",
+   "穿越",
+   "囤物资"
+  ],
+  "clean_hits": {
+   "感情": 1,
+   "拖沓": 1
+  },
+  "clean_total": 2,
+  "reply_hits": 1,
+  "samples": [
+   "…得欠，女的是因为约定冲喜，俩人之前应该没感情，甚至都没接触，感情上也没得欠，所以原主欠了什么？莫名其…",
+   "…舒服，剧本扎实，种田剧情特别有烟火气，不拖沓不灌水，重点是集数多，量大管饱，疯狂催更，求求快点出下一…"
+  ],
+  "latest_season": 1,
+  "latest_season_date": "2026/10/25",
   "ongoing": false
  },
  {
@@ -6031,39 +6840,13 @@
    "无脑": 1
   },
   "clean_total": 2,
-  "reply_hits": 0,
+  "reply_hits": 3,
   "samples": [
    "…真实，喜欢年代剧的都可以看看。没有那么多无脑剧情为了装逼而装逼，大概这也是热度低的原因。",
    "好看，非常有生活气息。比其他的穿越文要好看的多，没有太多的狗血和胡编乱造。很现实很生活。"
   ],
   "latest_season": 1,
   "latest_season_date": "2026/10/24",
-  "ongoing": false
- },
- {
-  "name": "我家山庄通异界，古代员工抢着来",
-  "gender": "女频",
-  "seasons_n": 1,
-  "eps_est": 1000,
-  "estimated": false,
-  "score": null,
-  "tags": [
-   "脑洞",
-   "系统",
-   "乡村"
-  ],
-  "clean_hits": {
-   "圣母": 1,
-   "敷衍": 1
-  },
-  "clean_total": 2,
-  "reply_hits": 4,
-  "samples": [
-   "…有cp至少目前一千集没有 也没有盲目扶贫圣母 大家都有自己的故事线 每一个人都在努力的靠自己的双手活…",
-   "一千多集绝非敷衍之作。极为精彩，许多同系列剧集往往仅制作一两集便草草收场，而这部剧却精心打造了100…"
-  ],
-  "latest_season": 1,
-  "latest_season_date": "2026/10/01",
   "ongoing": false
  },
  {
@@ -6089,6 +6872,27 @@
   ],
   "latest_season": 1,
   "latest_season_date": "2026/09/11",
+  "ongoing": false
+ },
+ {
+  "name": "金牌帝婿大魏双子星",
+  "gender": "男频",
+  "seasons_n": 1,
+  "eps_est": 1000,
+  "estimated": false,
+  "score": null,
+  "tags": [],
+  "clean_hits": {
+   "大叫": 1,
+   "大吼": 1
+  },
+  "clean_total": 2,
+  "reply_hits": 0,
+  "samples": [
+   "终于不是大吼大叫了[笑哭]"
+  ],
+  "latest_season": 0,
+  "latest_season_date": "",
   "ongoing": false
  },
  {
@@ -6118,34 +6922,6 @@
   "ongoing": false
  },
  {
-  "name": "登基称帝，朕以万界养帝国",
-  "gender": "男频",
-  "seasons_n": 1,
-  "eps_est": 999,
-  "estimated": false,
-  "score": null,
-  "tags": [
-   "脑洞",
-   "穿越",
-   "系统",
-   "逆袭",
-   "异界"
-  ],
-  "clean_hits": {
-   "后宫": 1,
-   "无脑": 1
-  },
-  "clean_total": 2,
-  "reply_hits": 2,
-  "samples": [
-   "看完回评：世界观洪大，纯爽文但不是无脑爽，主角不是一个人，更像是这个国家，分支有也很多的小故事但看着…",
-   "这剧牛逼，太好看了。无后宫。世界观宏大。 还有规矩规则，科技各类种种真的很好看。也很有意思。主角是事…"
-  ],
-  "latest_season": 1,
-  "latest_season_date": "2026/10/12",
-  "ongoing": false
- },
- {
   "name": "凡人弑仙传之熬死天下",
   "gender": "男频",
   "seasons_n": 1,
@@ -6163,63 +6939,13 @@
    "墨迹": 1
   },
   "clean_total": 2,
-  "reply_hits": 1,
+  "reply_hits": 2,
   "samples": [
    "回评：还不错，杀伐果断不墨迹且还挺搞笑不会太单调，无女主，但有几位红颜，无刀且爽文，不是💩，放心看",
    "这部剧节奏感强不拖沓～一口气看了一天！建模特别不错👍真的很推荐越看后面越精彩，尤其到死星的部分推荐大…"
   ],
   "latest_season": 1,
   "latest_season_date": "2026/10/06",
-  "ongoing": false
- },
- {
-  "name": "作死系统，非要让我去闯祸",
-  "gender": "待定",
-  "seasons_n": 1,
-  "eps_est": 999,
-  "estimated": false,
-  "score": null,
-  "tags": [],
-  "clean_hits": {
-   "后宫": 1,
-   "无脑": 1
-  },
-  "clean_total": 2,
-  "reply_hits": 0,
-  "samples": [
-   "…生的决绝一路拼杀下来，没有儿女私情，没有无脑的拖泥带水，这么多集数几乎没有配乐，真是难得，主创辛苦了…",
-   "…写古诗词的风光。后面演的全是连环计，没有后宫，极少谈情说爱。男主城府深，后面的女主也脑子跟得上，这部…"
-  ],
-  "latest_season": 0,
-  "latest_season_date": "",
-  "ongoing": false
- },
- {
-  "name": "末世躺赢指南：到末世十年后",
-  "gender": "男频",
-  "seasons_n": 3,
-  "eps_est": 949,
-  "estimated": false,
-  "score": null,
-  "tags": [
-   "末世",
-   "穿越",
-   "求生",
-   "逆袭",
-   "都市"
-  ],
-  "clean_hits": {
-   "后宫": 1,
-   "无脑": 1
-  },
-  "clean_total": 2,
-  "reply_hits": 0,
-  "samples": [
-   "… 很喜欢第二季的人设延续！李星月依旧不是无脑战力天花板，靠情报和布局求生，暴君、修女几位尸王的戏份穿…",
-   "希望男主不要有后宫，我喜欢男主没有后宫，然后那些尸王尸皇都当他是弟弟，都是一家人。"
-  ],
-  "latest_season": 3,
-  "latest_season_date": "2026/10/25",
   "ongoing": false
  },
  {
@@ -6277,32 +7003,6 @@
   "ongoing": false
  },
  {
-  "name": "为见妹妹，我种出一条仙路",
-  "gender": "女频",
-  "seasons_n": 3,
-  "eps_est": 900,
-  "estimated": false,
-  "score": null,
-  "tags": [
-   "玄幻",
-   "异能",
-   "异界"
-  ],
-  "clean_hits": {
-   "感情": 1,
-   "无脑": 1
-  },
-  "clean_total": 2,
-  "reply_hits": 0,
-  "samples": [
-   "…难女人了，每集时长也很不错。 目前也没有感情线好评！（以后有的话再来改成差评） 另外快点第二季啊[怒…",
-   "非常好看，没有强行冲突，没有无脑剧情，没有人为cp，有的是亲情，友情，温情，都说大道无情，却是东边日…"
-  ],
-  "latest_season": 3,
-  "latest_season_date": "2026/10/12",
-  "ongoing": false
- },
- {
   "name": "烛九阴",
   "gender": "男频",
   "seasons_n": 7,
@@ -6357,32 +7057,29 @@
   "ongoing": false
  },
  {
-  "name": "携空间下乡，重生向阳而生",
-  "gender": "女频",
-  "seasons_n": 4,
-  "eps_est": 850,
+  "name": "秦始皇：朕有华夏全明星阵容",
+  "gender": "男频",
+  "seasons_n": 2,
+  "eps_est": 842,
   "estimated": false,
   "score": null,
   "tags": [
    "脑洞",
-   "重生",
-   "系统",
-   "囤物资",
-   "年代",
-   "乡村"
+   "穿越",
+   "古代"
   ],
   "clean_hits": {
-   "拖沓": 1,
-   "憋屈": 1
+   "恋爱": 1,
+   "拖沓": 1
   },
   "clean_total": 2,
-  "reply_hits": 0,
+  "reply_hits": 5,
   "samples": [
-   "剧情一点都不拖沓，内容紧凑，没有那么多弯弯绕绕，主角也是有仇当晚就报不隔夜，很果断，后面集数能有10…",
-   "女主报仇快，不受气不憋屈，最令人惊讶的是系统，属于女主噶人它递刀还包埋，比人狠。"
+   "…，为了一个目标一步一步发展，剧情一点也不拖沓，真的超好看，看了那么多剧，这是第一部400多集没开倍速…",
+   "看了好多穿越秦朝的，没有一个人想和秦始皇谈恋爱的，都想给他打工[爱慕]，不管男频还是女频"
   ],
-  "latest_season": 4,
-  "latest_season_date": "2026/10/25",
+  "latest_season": 2,
+  "latest_season_date": "2026/09/22",
   "ongoing": false
  },
  {
@@ -6453,7 +7150,7 @@
    "无脑": 2
   },
   "clean_total": 2,
-  "reply_hits": 0,
+  "reply_hits": 1,
   "samples": [
    "…的嬴政一字不落地听了去。 没有一路开挂的无脑金手指，开局就是刀尖上的博弈。他一边要给始皇献对策，一边…",
    "…，第二不是无敌，第三需要脑子，不是反派就无脑上的，第四整部剧不管是节奏，思路都挺好的，别的穿越不是无…"
@@ -6489,31 +7186,29 @@
   "ongoing": false
  },
  {
-  "name": "高武战神：一杆长枪御万敌",
+  "name": "纨绔兴明：我的舅舅是万历皇帝",
   "gender": "男频",
   "seasons_n": 1,
-  "eps_est": 785,
+  "eps_est": 777,
   "estimated": false,
-  "score": null,
+  "score": 8.5,
   "tags": [
-   "脑洞",
-   "系统",
-   "战斗",
-   "逆袭",
-   "都市"
+   "剧情",
+   "穿越",
+   "囤物资"
   ],
   "clean_hits": {
-   "恋爱": 1,
-   "拖沓": 1
+   "后宫": 1,
+   "狗血": 1
   },
   "clean_total": 2,
-  "reply_hits": 1,
+  "reply_hits": 4,
   "samples": [
-   "前面剧情挺好的，不拖沓，后面怎么回事？聊天聊十几集，讲故事讲十几集，杀个怪杀十几集？看的真的很烧心。",
-   "…战友情那种更热血更吸引人吧 这也不是一部恋爱题材的"
+   "我看评论区有的人说是后宫文 有的人说没有女主 无cp 等着我看完再和你们说到底有没有女主[你细品]",
+   "看完来追评了，整部剧质量很高，人物表情非常丰富，轻松幽默，没有狗血剧情，可以放心追"
   ],
   "latest_season": 1,
-  "latest_season_date": "2026/10/18",
+  "latest_season_date": "2026/10/19",
   "ongoing": false
  },
  {
@@ -6542,28 +7237,60 @@
   "ongoing": false
  },
  {
-  "name": "冤种兄妹绑错系统爆红了",
-  "gender": "待定",
-  "seasons_n": 4,
-  "eps_est": 745,
-  "estimated": true,
+  "name": "重回1994：超级赶海奶爸",
+  "gender": "男频",
+  "seasons_n": 3,
+  "eps_est": 750,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "种田",
+   "重生",
+   "系统",
+   "逆袭",
+   "年代",
+   "乡村"
+  ],
+  "clean_hits": {
+   "狗血": 1,
+   "拖沓": 1
+  },
+  "clean_total": 2,
+  "reply_hits": 1,
+  "samples": [
+   "…发展的进程稍微有些快。不过瑕不掩瑜，没有狗血撕逼，整体基调温暖向上，既有年代怀旧感，又有赶海的趣味，…",
+   "特别好看，男主重活一世护崽心切找孩子的剧情太戳人，节奏紧凑不拖沓[鼓掌]值得一看"
+  ],
+  "latest_season": 3,
+  "latest_season_date": "2026/09/27",
+  "ongoing": false
+ },
+ {
+  "name": "山货换万金，挣起一个家AI真人版",
+  "gender": "男频",
+  "seasons_n": 2,
+  "eps_est": 749,
+  "estimated": false,
   "score": null,
   "tags": [
    "脑洞",
    "穿越",
    "系统",
-   "架空"
+   "逆袭",
+   "古代",
+   "乡村"
   ],
   "clean_hits": {
-   "拖沓": 2
+   "圣母": 1,
+   "俗套": 1
   },
   "clean_total": 2,
-  "reply_hits": 0,
+  "reply_hits": 2,
   "samples": [
-   "最好看的一个版本，节奏快不拖沓，剧情详细还贼有意思，每一集都笑到停不下来[爱慕]哥哥含量极高！！！最…",
-   "…皇帝才登基一年，很好看很新奇，剧情紧凑不拖沓，妹妹被吓的灵魂出窍，哥哥还帮妹妹把出窍的灵魂塞回去哈哈…"
+   "这个剧，没有落入俗套的爽文剧情套路，而是把人际交往、情绪调节等成长议题藏在轻松的日常故事里，实在是太…",
+   "…这些宗族，害怕弟弟妹妹被人说，虽然没有很圣母但是真的很无奈，救人杀人都让弟妹被人排挤，大人亲戚还不如…"
   ],
-  "latest_season": 4,
+  "latest_season": 2,
   "latest_season_date": "2026/10/02",
   "ongoing": false
  },
@@ -6584,7 +7311,7 @@
    "狗血": 1
   },
   "clean_total": 2,
-  "reply_hits": 8,
+  "reply_hits": 9,
   "samples": [
    "…主掉富马甲，掉马以后也很有意思，也没有啥狗血剧情，就是女主揍了男主，放现实基本是住院级别的挨揍，但是…",
    "…太爽了对于我们这种慕强狗+喜欢带脑子+不圣母的及其友好"
@@ -6610,7 +7337,7 @@
    "大叫": 1
   },
   "clean_total": 2,
-  "reply_hits": 0,
+  "reply_hits": 2,
   "samples": [
    "…真的是看一集哭一集，讨厌的点就是五哥大喊大叫那一段，总体来说还是值得看的",
    "…][爽][爽][爽]集数多看着过瘾，不是无脑口水剧！"
@@ -6620,29 +7347,31 @@
   "ongoing": false
  },
  {
-  "name": "冰冷重遇",
-  "gender": "女频",
-  "seasons_n": 8,
-  "eps_est": 722,
+  "name": "馋坏全皇宫的菜，全靠系统点外卖",
+  "gender": "男频",
+  "seasons_n": 1,
+  "eps_est": 711,
   "estimated": false,
   "score": null,
   "tags": [
-   "恋爱",
-   "都市",
-   "豪门"
+   "脑洞",
+   "穿越",
+   "系统",
+   "逆袭",
+   "古代"
   ],
   "clean_hits": {
-   "恋爱": 1,
-   "感情": 1
+   "无脑": 1,
+   "洗白": 1
   },
   "clean_total": 2,
-  "reply_hits": 3,
+  "reply_hits": 8,
   "samples": [
-   "…男女主双向在意的拉扯氛围感拉满，跳出单纯恋爱，加入豪门阴谋剧情。依旧存在古早虐恋套路，误会反复上演，…",
-   "…了，我怎么办[哭]从暑假看到现在，说没有感情是假的，虽然听说有二搭，但他们终究不是苏沐妍和顾景琛，但…"
+   "这种狗皇帝不会洗白吧[什么]",
+   "…言，这是几百集短剧我唯一看完的，比起其他无脑安排剧情的短剧，这部剧合理性不错，爽但不是完全无脑，而且…"
   ],
-  "latest_season": 8,
-  "latest_season_date": "2026/09/19",
+  "latest_season": 1,
+  "latest_season_date": "2026/10/06",
   "ongoing": false
  },
  {
@@ -6691,7 +7420,7 @@
    "敷衍": 1
   },
   "clean_total": 2,
-  "reply_hits": 1,
+  "reply_hits": 2,
   "samples": [
    "…有这种才能吸引人好吗，剧情好，做的画面不敷衍自然有人看",
    "发现还是末世女频好看，末世男频各有各的难看，不是主角是嘉豪圣父就是女角色穿的特别暴露[捂脸]"
@@ -6744,10 +7473,10 @@
    "憋屈": 1
   },
   "clean_total": 2,
-  "reply_hits": 3,
+  "reply_hits": 5,
   "samples": [
    "非常可以剧情也完美女主没无脑报复都是以其人之道还治其人之身的爽比无脑爽好看多了[爱心]就是夸人太狠了",
-   "…爱女主[捂脸]大女主完全就是大女主，毫不憋屈，都是别人憋屈，推荐看期待第二季[偷笑][偷笑]"
+   "…爱女主[捂脸]大女主完全就是大女主，毫不憋屈，都是别人憋屈，推荐看期待第二季[捂脸][捂脸][捂脸]"
   ],
   "latest_season": 1,
   "latest_season_date": "2026/10/05",
@@ -6781,6 +7510,33 @@
   "ongoing": false
  },
  {
+  "name": "黑塔：从超忆症开始成神",
+  "gender": "男频",
+  "seasons_n": 5,
+  "eps_est": 676,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "脑洞",
+   "异能",
+   "战斗",
+   "都市"
+  ],
+  "clean_hits": {
+   "圣母": 1,
+   "感情": 1
+  },
+  "clean_total": 2,
+  "reply_hits": 1,
+  "samples": [
+   "…了自己进阶并脱困。林凡不是那种烂好人或者圣母，有担当、有决断、有大局观、能御人、也辨忠奸，除了有点中…",
+   "…记忆 主角组建自己团队的群像也好看 没有感情线 好评"
+  ],
+  "latest_season": 5,
+  "latest_season_date": "2026/10/18",
+  "ongoing": false
+ },
+ {
   "name": "逆命真龙",
   "gender": "男频",
   "seasons_n": 5,
@@ -6798,7 +7554,7 @@
    "磨叽": 1
   },
   "clean_total": 2,
-  "reply_hits": 0,
+  "reply_hits": 1,
   "samples": [
    "…子赘婿开始一路打脸。 节奏是真快，完全不磨叽，憋屈情节绝不超过半集，打脸来得又快又爽",
    "…折服对方，后因共同对抗强敌结下情谊，这段感情线没有强行撒糖，而是从惺惺相惜到水到渠成，看着比较自然。…"
@@ -6808,31 +7564,56 @@
   "ongoing": false
  },
  {
-  "name": "美颜系统开挂，大佬全跪下",
-  "gender": "女频",
-  "seasons_n": 3,
-  "eps_est": 657,
+  "name": "古董捡漏：网约车的开挂人生",
+  "gender": "男频",
+  "seasons_n": 1,
+  "eps_est": 666,
   "estimated": false,
   "score": null,
   "tags": [
    "脑洞",
-   "重生",
-   "系统",
    "逆袭",
    "都市"
   ],
   "clean_hits": {
-   "舔狗": 1,
-   "绿茶": 1
+   "狗血": 1,
+   "拖沓": 1
   },
   "clean_total": 2,
-  "reply_hits": 7,
+  "reply_hits": 0,
   "samples": [
-   "…漂亮。没有人格魅力没有善良 善妒心机海王绿茶 辜负真心的虚伪朋友，竟然还能俘获所有男的心 、害善良的…",
-   "欸，和我看的领一个有点像，也是男主们给女配花钱，花够一定的金额。男主们会慢慢觉醒，就不会舔狗了。"
+   "看吧，现在的红果越来越多这种无脑狗血剧情，专为提升人们的血压而著作🖕🏻🖕🏻🖕🏻🖕🏻🖕🏻🖕🏻🖕🏻🖕🏻🖕…",
+   "…宝藏啦！短剧就是生活精神代餐[赞]剧情不拖沓，快乐很纯粹[赞]追剧的时候烦恼统统忘掉[尬笑][爽][…"
   ],
-  "latest_season": 3,
-  "latest_season_date": "2026/10/04",
+  "latest_season": 1,
+  "latest_season_date": "2026/10/24",
+  "ongoing": false
+ },
+ {
+  "name": "重生八零:离婚后我靠赶海暴富",
+  "gender": "女频",
+  "seasons_n": 2,
+  "eps_est": 644,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "剧情",
+   "重生",
+   "逆袭",
+   "年代",
+   "乡村"
+  ],
+  "clean_hits": {
+   "恋爱": 1,
+   "恋爱脑": 1
+  },
+  "clean_total": 2,
+  "reply_hits": 0,
+  "samples": [
+   "…不错，没有磨磨唧唧的拉扯。也没有拎不清的恋爱脑。就连离婚都干脆利落不带拖泥带水的。看着让人解气。虽然…"
+  ],
+  "latest_season": 2,
+  "latest_season_date": "2026/10/20",
   "ongoing": false
  },
  {
@@ -6852,7 +7633,7 @@
    "狗血": 2
   },
   "clean_total": 2,
-  "reply_hits": 0,
+  "reply_hits": 4,
   "samples": [
    "…！！最重要的是女主长嘴啦！！！也没有什么狗血误会！！甜蜜蜜！撒花撒花撒花撒花撒花，里面好多CP，每队…",
    "…都很甜 都是追夫火葬场 但是又没有特别的狗血什么的 反正很好看 五百多集我说看就看 真的好看 但我还…"
@@ -6889,28 +7670,6 @@
   "ongoing": false
  },
  {
-  "name": "洪荒守门人",
-  "gender": "待定",
-  "seasons_n": 2,
-  "eps_est": 626,
-  "estimated": false,
-  "score": null,
-  "tags": [],
-  "clean_hits": {
-   "感情": 1,
-   "狗血": 1
-  },
-  "clean_total": 2,
-  "reply_hits": 0,
-  "samples": [
-   "制作的特别好，没有穿模，没有狗血剧情，体系从头到尾都没崩，剧情合理。这是我看过的最最最佳的仙品。不过…",
-   "…。但是剧情不好看了。明明可以做到改成没有感情线的，偏偏要制作成这样。"
-  ],
-  "latest_season": 0,
-  "latest_season_date": "",
-  "ongoing": false
- },
- {
   "name": "夏青柠重生记，冷面老公被捂热啦",
   "gender": "女频",
   "seasons_n": 1,
@@ -6928,7 +7687,7 @@
    "拖沓": 1
   },
   "clean_total": 2,
-  "reply_hits": 0,
+  "reply_hits": 1,
   "samples": [
    "…然坏人一直在跳，但是丝毫没有影响男女主的感情，他俩有误会也很快就讲开了！",
    "整体还不错，有误会也很快解决了，不拖沓，三个女宝都特别好，应该算完结了吧，但是看小说好像没完结，而且…"
@@ -6954,13 +7713,39 @@
    "憋屈": 1
   },
   "clean_total": 2,
-  "reply_hits": 0,
+  "reply_hits": 2,
   "samples": [
    "…蠢但实在有钱，女主比较厉害隐藏实力，没有白莲花（这个真的太重要了）",
    "很少有这么不脑残不憋屈的剧情了，有热血番的感觉了，女主终于不是“我是个废物，但是大佬们追着宠我”的恶…"
   ],
   "latest_season": 3,
   "latest_season_date": "2026/09/12",
+  "ongoing": false
+ },
+ {
+  "name": "究极末世：苟到天荒",
+  "gender": "女频",
+  "seasons_n": 1,
+  "eps_est": 616,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "末世",
+   "重生",
+   "囤物资",
+   "都市"
+  ],
+  "clean_hits": {
+   "恋爱": 1,
+   "恋爱脑": 1
+  },
+  "clean_total": 2,
+  "reply_hits": 2,
+  "samples": [
+   "…玉佩 为什么不联系 你是没亲人吗 动不动恋爱脑现实也没见恋爱少谈"
+  ],
+  "latest_season": 1,
+  "latest_season_date": "2026/09/23",
   "ongoing": false
  },
  {
@@ -7055,6 +7840,59 @@
   "ongoing": false
  },
  {
+  "name": "妖妃一作，国运暴涨",
+  "gender": "女频",
+  "seasons_n": 3,
+  "eps_est": 600,
+  "estimated": true,
+  "score": null,
+  "tags": [
+   "脑洞",
+   "穿越",
+   "系统",
+   "古代"
+  ],
+  "clean_hits": {
+   "绿茶": 2
+  },
+  "clean_total": 2,
+  "reply_hits": 0,
+  "samples": [
+   "原来我并不讨厌绿茶，我只是讨厌绿茶的对象，不是我哈哈哈哈哈哈￼",
+   "真的是笑死了，果然男人爱喝绿茶不是没有原因的[吃瓜][吃瓜][吃瓜]，真的茶艺了得。"
+  ],
+  "latest_season": 3,
+  "latest_season_date": "2026/10/23",
+  "ongoing": false
+ },
+ {
+  "name": "谁又惹她了",
+  "gender": "女频",
+  "seasons_n": 3,
+  "eps_est": 598,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "恋爱",
+   "重生",
+   "都市",
+   "豪门"
+  ],
+  "clean_hits": {
+   "憋屈": 1,
+   "俗套": 1
+  },
+  "clean_total": 2,
+  "reply_hits": 0,
+  "samples": [
+   "爽啊！这才是我爱看的大女主爽文[爽][爽][爽]有仇必报，以牙还牙，从不憋屈[爽]",
+   "真的很好看😘 剧情没有俗套的工业糖精和悬浮的人设 每一个角色的行为逻辑都贴合现实里普通人的选择😯 连…"
+  ],
+  "latest_season": 3,
+  "latest_season_date": "2026/10/20",
+  "ongoing": false
+ },
+ {
   "name": "我在七零当社牛",
   "gender": "女频",
   "seasons_n": 1,
@@ -7109,6 +7947,34 @@
   "ongoing": false
  },
  {
+  "name": "重生北地，看我赶山养家",
+  "gender": "男频",
+  "seasons_n": 4,
+  "eps_est": 592,
+  "estimated": true,
+  "score": null,
+  "tags": [
+   "种田",
+   "重生",
+   "逆袭",
+   "年代",
+   "乡村"
+  ],
+  "clean_hits": {
+   "圣母": 1,
+   "无脑": 1
+  },
+  "clean_total": 2,
+  "reply_hits": 0,
+  "samples": [
+   "…不慎摔坏腰椎，导致短暂的瘫痪。这部剧没有无脑开挂，靠着熟悉山林的经验进山寻货、打猎采山货、家乡大河捞…",
+   "…都是挣大钱。赚差价也不回避。这个剧至少不圣母表，不像有些剧实实在在的收多少就是按多少，1分钱不赚，那…"
+  ],
+  "latest_season": 4,
+  "latest_season_date": "2026/09/11",
+  "ongoing": false
+ },
+ {
   "name": "聆万物全季完结版",
   "gender": "女频",
   "seasons_n": 1,
@@ -7138,6 +8004,60 @@
   "ongoing": false
  },
  {
+  "name": "天灾末世：我能提取神话词条躺赢",
+  "gender": "待定",
+  "seasons_n": 1,
+  "eps_est": 583,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "末世",
+   "系统",
+   "求生",
+   "逆袭",
+   "都市"
+  ],
+  "clean_hits": {
+   "舔狗": 1,
+   "无脑": 1
+  },
+  "clean_total": 2,
+  "reply_hits": 2,
+  "samples": [
+   "…有灾难后宫求生剧里算好的一档了，不用那些无脑靠抢女人打脸推进剧情，没有针对主角的无脑反派，慢慢发育真…",
+   "不想去找家人，先去找女朋友，家人还没女朋友重要，这男的不会也是舔狗吧？"
+  ],
+  "latest_season": 1,
+  "latest_season_date": "2026/10/27",
+  "ongoing": false
+ },
+ {
+  "name": "今夜余温",
+  "gender": "女频",
+  "seasons_n": 4,
+  "eps_est": 579,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "恋爱",
+   "豪门",
+   "都市"
+  ],
+  "clean_hits": {
+   "恋爱": 1,
+   "洗白": 1
+  },
+  "clean_total": 2,
+  "reply_hits": 1,
+  "samples": [
+   "不会要洗白季川了吧",
+   "…个江寒稍微比季川好那么一点，至少别个在谈恋爱的期间没有招惹别的女的，有联姻也是正大光明的，不像季川已…"
+  ],
+  "latest_season": 4,
+  "latest_season_date": "2026/09/27",
+  "ongoing": false
+ },
+ {
   "name": "福星阮现现七零重生记：看我搬空全家",
   "gender": "女频",
   "seasons_n": 3,
@@ -7164,6 +8084,55 @@
   ],
   "latest_season": 3,
   "latest_season_date": "2026/10/05",
+  "ongoing": false
+ },
+ {
+  "name": "别人逃生，我把废土变战舰",
+  "gender": "男频",
+  "seasons_n": 1,
+  "eps_est": 564,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "科幻",
+   "求生",
+   "系统",
+   "逆袭",
+   "异界"
+  ],
+  "clean_hits": {
+   "大叫": 1,
+   "大吼": 1
+  },
+  "clean_total": 2,
+  "reply_hits": 2,
+  "samples": [
+   "AI 还是避免不了大吼大叫呀。"
+  ],
+  "latest_season": 1,
+  "latest_season_date": "2026/09/28",
+  "ongoing": false
+ },
+ {
+  "name": "都流放了，你们还求我回京称帝",
+  "gender": "待定",
+  "seasons_n": 1,
+  "eps_est": 559,
+  "estimated": false,
+  "score": null,
+  "tags": [],
+  "clean_hits": {
+   "拖沓": 1,
+   "老套": 1
+  },
+  "clean_total": 2,
+  "reply_hits": 1,
+  "samples": [
+   "还好，不拖沓",
+   "…凡穿越必带系统，异能，空间，这个剧打破了老套路，关键是这剧长，能看过瘾，真好"
+  ],
+  "latest_season": 0,
+  "latest_season_date": "",
   "ongoing": false
  },
  {
@@ -7236,7 +8205,7 @@
    "无脑": 1
   },
   "clean_total": 2,
-  "reply_hits": 0,
+  "reply_hits": 1,
   "samples": [
    "剧情紧凑，相关主演做事果断，不圣母，不是无脑剧。值得一看。 另外催更第二季第二季第二季第二季第二季第…"
   ],
@@ -7297,60 +8266,31 @@
   "ongoing": false
  },
  {
-  "name": "实习教师之我把倒数班带成传奇",
+  "name": "北凉弃子",
   "gender": "男频",
-  "seasons_n": 3,
-  "eps_est": 544,
-  "estimated": false,
-  "score": null,
-  "tags": [
-   "脑洞",
-   "系统",
-   "逆袭",
-   "热血",
-   "都市",
-   "校园"
-  ],
-  "clean_hits": {
-   "拖沓": 1,
-   "无脑": 1
-  },
-  "clean_total": 2,
-  "reply_hits": 1,
-  "samples": [
-   "…反派挺惹人嫌的，但行为符合逻辑，不是那种无脑恶毒。 非常好看的剧，第二季速度啊。",
-   "…之间的互动沟通 但是故事新颖 架构紧凑不拖沓 情节暖心 亦师亦友 师生情谊 给我这个四十多的老登都看…"
-  ],
-  "latest_season": 3,
-  "latest_season_date": "2026/10/13",
-  "ongoing": false
- },
- {
-  "name": "母亲是巨龙我咋是山海异兽呢",
-  "gender": "男频",
-  "seasons_n": 6,
+  "seasons_n": 1,
   "eps_est": 541,
   "estimated": false,
   "score": null,
   "tags": [
-   "奇幻",
+   "脑洞",
    "穿越",
-   "逆袭",
    "系统",
-   "异界"
+   "逆袭",
+   "古代"
   ],
   "clean_hits": {
-   "恋爱": 1,
-   "感情戏": 1
+   "拖沓": 1,
+   "憋屈": 1
   },
   "clean_total": 2,
-  "reply_hits": 0,
+  "reply_hits": 1,
   "samples": [
-   "…就已经知道后续走向了，估计后面还会化形谈恋爱，如果跟前期一直走吞噬路线不偏向恋爱的话的确还行，但也许…",
-   "感情戏有一部分应该删了 不然感觉会被抬走 兄妹恋价值观不对呀 虽然看着很刺激 但是不想被强迫断更没得…"
+   "…人也给的很厉害是真的厉害不缩水[捂脸]不憋屈 真的爽 这么多集意犹未尽",
+   "…全是精英，召唤了一个赵子龙，好看的剧，不拖沓，看着解气"
   ],
-  "latest_season": 6,
-  "latest_season_date": "2026/10/03",
+  "latest_season": 1,
+  "latest_season_date": "2026/10/11",
   "ongoing": false
  },
  {
@@ -7399,7 +8339,7 @@
    "狗血": 1
   },
   "clean_total": 2,
-  "reply_hits": 2,
+  "reply_hits": 3,
   "samples": [
    "爽！直接看70集你就知道这部剧能不能看了。没有狗血女频剧情，故事发展合乎逻辑。不脏眼！",
    "男主实力超强，打斗场面也挺好看的。虽然感情方面剧情很少，但总是感觉像是硬插入的。每次都非得来点。要是…"
@@ -7432,34 +8372,6 @@
   ],
   "latest_season": 5,
   "latest_season_date": "2026/09/29",
-  "ongoing": false
- },
- {
-  "name": "吞噬黑光",
-  "gender": "男频",
-  "seasons_n": 3,
-  "eps_est": 531,
-  "estimated": true,
-  "score": null,
-  "tags": [
-   "脑洞",
-   "穿越",
-   "系统",
-   "异能",
-   "都市"
-  ],
-  "clean_hits": {
-   "拖沓": 1,
-   "墨迹": 1
-  },
-  "clean_total": 2,
-  "reply_hits": 0,
-  "samples": [
-   "一点都不墨迹这剧情，也清晰看得懂每一步在干嘛，超喜欢的一部剧，加油啊。也不要为了进度丢失水准。希望尽…",
-   "第三季全程高能！末世异能打怪看得太爽，江尘一路成长，每一集打斗都不拖沓，已经蹲死第四季，快点更新！"
-  ],
-  "latest_season": 3,
-  "latest_season_date": "2026/10/03",
   "ongoing": false
  },
  {
@@ -7617,33 +8529,6 @@
   "ongoing": false
  },
  {
-  "name": "变身顶美，有颜真能为所欲为",
-  "gender": "女频",
-  "seasons_n": 2,
-  "eps_est": 510,
-  "estimated": false,
-  "score": null,
-  "tags": [
-   "剧情",
-   "穿越",
-   "都市",
-   "职场"
-  ],
-  "clean_hits": {
-   "憋屈": 1,
-   "俗套": 1
-  },
-  "clean_total": 2,
-  "reply_hits": 0,
-  "samples": [
-   "…惬意，第二季一直在应付烂桃花，有些无聊和俗套，完全是因为太喜欢这个女主的建模了才坚持看完第二季[捂脸…",
-   "有点理解红颜薄命这句话了。主角没背景，天天被人毛手毛脚的，又被造谣，继承了遗产之后生活才没那么憋屈。"
-  ],
-  "latest_season": 2,
-  "latest_season_date": "2026/10/01",
-  "ongoing": false
- },
- {
   "name": "大明军火库",
   "gender": "男频",
   "seasons_n": 1,
@@ -7668,31 +8553,6 @@
   ],
   "latest_season": 1,
   "latest_season_date": "2026/09/07",
-  "ongoing": false
- },
- {
-  "name": "赦夜人",
-  "gender": "待定",
-  "seasons_n": 4,
-  "eps_est": 504,
-  "estimated": true,
-  "score": null,
-  "tags": [
-   "脑洞",
-   "求生"
-  ],
-  "clean_hits": {
-   "拖沓": 1,
-   "洗白": 1
-  },
-  "clean_total": 2,
-  "reply_hits": 0,
-  "samples": [
-   "…笑不是吗[捂脸][捂脸] 当然我也不是在洗白某某 只是说一些自己的看法。",
-   "剧情紧凑不拖沓 斗智斗勇 底层逻辑清晰 打斗更逼真 智商情商中上 作者大财 小说的情绪被代入到此剧 …"
-  ],
-  "latest_season": 4,
-  "latest_season_date": "2026/09/17",
   "ongoing": false
  },
  {
@@ -7764,13 +8624,68 @@
    "狗血": 1
   },
   "clean_total": 2,
-  "reply_hits": 0,
+  "reply_hits": 6,
   "samples": [
    "…有独当一面的本事，重点是三条线都没有雌竞狗血，闺蜜互相惦记的感情真的很好，要是雷霸总人设可以跳过CP…",
    "就不能不恋爱，然后把三个人事业发展越来越好，光是福星这个称号就会得到尊重了，非得组CP，再厉害的人去…"
   ],
   "latest_season": 1,
   "latest_season_date": "2026/10/27",
+  "ongoing": false
+ },
+ {
+  "name": "梦惊前世，涅槃归来",
+  "gender": "女频",
+  "seasons_n": 1,
+  "eps_est": 500,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "剧情",
+   "重生",
+   "逆袭",
+   "古代"
+  ],
+  "clean_hits": {
+   "感情": 1,
+   "白莲花": 1
+  },
+  "clean_total": 2,
+  "reply_hits": 5,
+  "samples": [
+   "…子应该贤良淑德，那有男人不纳妾，她不光把白莲花纳进来打骂，还把她公公的白月光纳进来给她公公做妾[笑哭…",
+   "…药 在一起 让外室看见 看看她们还能不能感情好 让所有人看见 看看他们还能不能颐指气使"
+  ],
+  "latest_season": 1,
+  "latest_season_date": "2026/09/10",
+  "ongoing": false
+ },
+ {
+  "name": "全班穿越洪荒，你们天仙我圣人",
+  "gender": "男频",
+  "seasons_n": 3,
+  "eps_est": 500,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "玄幻",
+   "穿越",
+   "系统",
+   "逆袭",
+   "异界"
+  ],
+  "clean_hits": {
+   "圣母": 1,
+   "墨迹": 1
+  },
+  "clean_total": 2,
+  "reply_hits": 0,
+  "samples": [
+   "一点不墨迹真好[捂脸]",
+   "云霄被压在麒麟崖下，也没说死了，还有无当圣母，这是唯一记载留下的独苗啊，[捂脸]还有多宝被西方教拐走…"
+  ],
+  "latest_season": 3,
+  "latest_season_date": "2026/10/20",
   "ongoing": false
  },
  {
@@ -7833,7 +8748,7 @@
    "圣母": 1
   },
   "clean_total": 1,
-  "reply_hits": 0,
+  "reply_hits": 2,
   "samples": [
    "我只希望这剧杀伐果断 没有唧唧歪歪的圣母 祝你爆火[鼓掌][鼓掌][鼓掌][鼓掌][送花]"
   ],
@@ -7842,28 +8757,27 @@
   "ongoing": false
  },
  {
-  "name": "我都元婴期了，你跟我说开学",
-  "gender": "男频",
-  "seasons_n": 3,
-  "eps_est": 1851,
-  "estimated": false,
-  "score": 8.0,
+  "name": "重生七零小辣媳之",
+  "gender": "女频",
+  "seasons_n": 4,
+  "eps_est": 1868,
+  "estimated": true,
+  "score": null,
   "tags": [
-   "玄幻",
+   "剧情",
    "穿越",
-   "战斗",
-   "都市"
+   "年代"
   ],
   "clean_hits": {
-   "拖沓": 1
+   "注水": 1
   },
   "clean_total": 1,
-  "reply_hits": 0,
+  "reply_hits": 1,
   "samples": [
-   "…断的，整部剧的剧情节奏是比较快的，没有很拖沓。对于男主角的处事风格，看起来还是较爽的。整篇的女性角色…"
+   "…，其实每集只有几十秒。其次制作上完全没有注水，甚至越看越精彩。从第一季追过来完全没有像其他剧一样重复…"
   ],
-  "latest_season": 3,
-  "latest_season_date": "2026/10/18",
+  "latest_season": 4,
+  "latest_season_date": "2026/10/25",
   "ongoing": false
  },
  {
@@ -7883,7 +8797,7 @@
    "圣母": 1
   },
   "clean_total": 1,
-  "reply_hits": 0,
+  "reply_hits": 1,
   "samples": [
    "女主有勇有谋做事果断不圣母，衣服也不露，手下的女将军县令都是正常衣服。最让我震惊的是女主在剧中给家暴…"
   ],
@@ -7983,7 +8897,7 @@
    "洗白": 1
   },
   "clean_total": 1,
-  "reply_hits": 2,
+  "reply_hits": 3,
   "samples": [
    "…承早断了，反派全是男主在杀[捂脸]。不是洗白，男主的处理方式确实不是最佳，但是从结果看，黑暗源头是因…"
   ],
@@ -8013,76 +8927,6 @@
   ],
   "latest_season": 2,
   "latest_season_date": "2026/10/17",
-  "ongoing": false
- },
- {
-  "name": "南塘县令有亿点强",
-  "gender": "男频",
-  "seasons_n": 3,
-  "eps_est": 1224,
-  "estimated": false,
-  "score": null,
-  "tags": [
-   "剧情",
-   "逆袭",
-   "架空"
-  ],
-  "clean_hits": {
-   "无脑": 1
-  },
-  "clean_total": 1,
-  "reply_hits": 1,
-  "samples": [
-   "…联手围杀，凶险藏在玩笑背后。 他从来不是无脑莽夫，只是懒得跟坏人虚与委蛇。看吴心继续用自己的方式搅翻…"
-  ],
-  "latest_season": 3,
-  "latest_season_date": "2026/10/23",
-  "ongoing": false
- },
- {
-  "name": "说我是反派：我成了气运克星者",
-  "gender": "待定",
-  "seasons_n": 2,
-  "eps_est": 1214,
-  "estimated": false,
-  "score": null,
-  "tags": [],
-  "clean_hits": {
-   "后宫": 1
-  },
-  "clean_total": 1,
-  "reply_hits": 0,
-  "samples": [
-   "…进来的朋友介绍一下看点：本剧无女主、不走后宫线，重点放在秦洛的行动、谋划与成长上。 整部剧围绕大秦帝…"
-  ],
-  "latest_season": 0,
-  "latest_season_date": "",
-  "ongoing": false
- },
- {
-  "name": "重生暴雪来临：我囤货求生",
-  "gender": "女频",
-  "seasons_n": 2,
-  "eps_est": 1179,
-  "estimated": false,
-  "score": null,
-  "tags": [
-   "末世",
-   "重生",
-   "囤物资",
-   "求生",
-   "都市"
-  ],
-  "clean_hits": {
-   "墨迹": 1
-  },
-  "clean_total": 1,
-  "reply_hits": 4,
-  "samples": [
-   "…，甚至让我觉得是个男作者写的。大女主，不墨迹，没有一大堆讲道理，有矛盾不BB，等没人的时候解决发出矛…"
-  ],
-  "latest_season": 2,
-  "latest_season_date": "2026/10/03",
   "ongoing": false
  },
  {
@@ -8158,29 +9002,6 @@
   "ongoing": false
  },
  {
-  "name": "步步深陷",
-  "gender": "女频",
-  "seasons_n": 6,
-  "eps_est": 1061,
-  "estimated": true,
-  "score": null,
-  "tags": [
-   "家族",
-   "古代"
-  ],
-  "clean_hits": {
-   "憋屈": 1
-  },
-  "clean_total": 1,
-  "reply_hits": 0,
-  "samples": [
-   "…主做局赶走了，可以说这一季女主是一点也不憋屈。反正后续应该是女主一直硬气起来，没人能欺负她了，就是被…"
-  ],
-  "latest_season": 6,
-  "latest_season_date": "2026/10/20",
-  "ongoing": false
- },
- {
   "name": "七零年代，我的妈妈竟是九尾狐",
   "gender": "女频",
   "seasons_n": 2,
@@ -8252,51 +9073,27 @@
   "ongoing": false
  },
  {
-  "name": "拒绝内耗！穿书后我靠囤货苟成团宠了",
-  "gender": "女频",
+  "name": "葬天境之万古第一废材",
+  "gender": "男频",
   "seasons_n": 1,
   "eps_est": 1000,
   "estimated": false,
-  "score": 8.6,
+  "score": null,
   "tags": [
-   "脑洞",
+   "玄幻",
    "穿越",
-   "囤物资"
+   "修真"
   ],
   "clean_hits": {
-   "拖沓": 1
+   "吵死": 1
   },
   "clean_total": 1,
   "reply_hits": 0,
   "samples": [
-   "…舒服，剧本扎实，种田剧情特别有烟火气，不拖沓不灌水，重点是集数多，量大管饱，疯狂催更，求求快点出下一…"
+   "有这样的背景音乐，能看到100集不被吵死的，老子算他牛逼。拜拜喽。"
   ],
   "latest_season": 1,
-  "latest_season_date": "2026/10/25",
-  "ongoing": false
- },
- {
-  "name": "末世第一粮仓",
-  "gender": "女频",
-  "seasons_n": 1,
-  "eps_est": 1000,
-  "estimated": false,
-  "score": 7.2,
-  "tags": [
-   "末世",
-   "穿越",
-   "系统"
-  ],
-  "clean_hits": {
-   "圣母": 1
-  },
-  "clean_total": 1,
-  "reply_hits": 0,
-  "samples": [
-   "…到500集了 评价一下 首先我觉得女主不圣母 做事迅速 然后这个剧情也挺好的 大部分都是女性角色为领…"
-  ],
-  "latest_season": 1,
-  "latest_season_date": "2026/10/24",
+  "latest_season_date": "2026/10/26",
   "ongoing": false
  },
  {
@@ -8316,7 +9113,7 @@
    "无脑": 1
   },
   "clean_total": 1,
-  "reply_hits": 2,
+  "reply_hits": 5,
   "samples": [
    "…后，npc也有自己独立的思想了，也不算是无脑一直跟的那种。个人觉得整部剧还是非常有价值可以一看。如果…"
   ],
@@ -8413,7 +9210,7 @@
    "憋屈": 1
   },
   "clean_total": 1,
-  "reply_hits": 0,
+  "reply_hits": 3,
   "samples": [
    "很好看就是爽文，有仇当场就报就是很爽，女主一点不憋屈自己，男主说怼就怼，而且一千多集，看着也不烧心"
   ],
@@ -8440,12 +9237,36 @@
    "圣母": 1
   },
   "clean_total": 1,
-  "reply_hits": 2,
+  "reply_hits": 3,
   "samples": [
    "…。大家放心看吧！男强女更强，双强。女主不圣母遇到事她是真敢直接打，特别牛逼特别自信！因为有实力所以女…"
   ],
   "latest_season": 1,
   "latest_season_date": "2026/10/12",
+  "ongoing": false
+ },
+ {
+  "name": "灵谕君王之雾域实习生",
+  "gender": "男频",
+  "seasons_n": 1,
+  "eps_est": 1000,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "奇幻",
+   "都市",
+   "校园"
+  ],
+  "clean_hits": {
+   "后宫": 1
+  },
+  "clean_total": 1,
+  "reply_hits": 4,
+  "samples": [
+   "先收藏，在等人来评论看看是不是后宫剧[捂脸]"
+  ],
+  "latest_season": 1,
+  "latest_season_date": "2026/10/22",
   "ongoing": false
  },
  {
@@ -8602,6 +9423,33 @@
   "ongoing": false
  },
  {
+  "name": "万人迷神颜顶流只想演炮灰",
+  "gender": "待定",
+  "seasons_n": 3,
+  "eps_est": 972,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "脑洞",
+   "穿越",
+   "系统",
+   "逆袭",
+   "都市",
+   "娱乐圈"
+  ],
+  "clean_hits": {
+   "感情": 1
+  },
+  "clean_total": 1,
+  "reply_hits": 4,
+  "samples": [
+   "呀，这语气终于回来了。第二季的说话语气没感情，像极了ai死板语。这季语气终于正常了，有鲜活了！"
+  ],
+  "latest_season": 3,
+  "latest_season_date": "2026/10/27",
+  "ongoing": false
+ },
+ {
   "name": "无敌财神！我觉醒了唯一隐藏职业",
   "gender": "待定",
   "seasons_n": 5,
@@ -8692,7 +9540,7 @@
    "憋屈": 1
   },
   "clean_total": 1,
-  "reply_hits": 2,
+  "reply_hits": 3,
   "samples": [
    "…追，战斗很少很粗糙。绝大部分好人，剧情不憋屈。温馨一家人，故事很不错，目前到大一刚入学和漂亮樱花新人…"
   ],
@@ -8825,6 +9673,55 @@
   "ongoing": false
  },
  {
+  "name": "封总，太太她又拉黑你了",
+  "gender": "女频",
+  "seasons_n": 2,
+  "eps_est": 878,
+  "estimated": true,
+  "score": null,
+  "tags": [
+   "剧情",
+   "逆袭",
+   "都市"
+  ],
+  "clean_hits": {
+   "感情": 1
+  },
+  "clean_total": 1,
+  "reply_hits": 1,
+  "samples": [
+   "男的不咋的，女的也照样不咋的，女儿非要带过来半天有没有增进感情，"
+  ],
+  "latest_season": 2,
+  "latest_season_date": "2026/09/19",
+  "ongoing": false
+ },
+ {
+  "name": "史上最强节度使曹风",
+  "gender": "男频",
+  "seasons_n": 1,
+  "eps_est": 867,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "剧情",
+   "穿越",
+   "逆袭",
+   "架空"
+  ],
+  "clean_hits": {
+   "大叫": 1
+  },
+  "clean_total": 1,
+  "reply_hits": 1,
+  "samples": [
+   "终于看到一个不哇哇大叫的正常人了"
+  ],
+  "latest_season": 1,
+  "latest_season_date": "2026/10/02",
+  "ongoing": false
+ },
+ {
   "name": "请卸甲：这天下我也争得",
   "gender": "待定",
   "seasons_n": 1,
@@ -8836,7 +9733,7 @@
    "无脑": 1
   },
   "clean_total": 1,
-  "reply_hits": 0,
+  "reply_hits": 1,
   "samples": [
    "…子柔弱隐忍的套路。主角没有依仗金手指一路无脑碾压，而是依靠现代思维冷静破局，面对皇兄的陷害、朝堂的倾…"
   ],
@@ -8887,7 +9784,7 @@
    "拖沓": 1
   },
   "clean_total": 1,
-  "reply_hits": 0,
+  "reply_hits": 1,
   "samples": [
    "…一心求死却次次封神，反差笑点拉满，剧情不拖沓、反转不断，打斗热血，人物鲜活，越看格局越大，强烈推荐！"
   ],
@@ -8912,7 +9809,7 @@
    "吵死": 1
   },
   "clean_total": 1,
-  "reply_hits": 0,
+  "reply_hits": 2,
   "samples": [
    "没有吵死人的音乐，可以安心看了，舒服"
   ],
@@ -8936,7 +9833,7 @@
    "拖沓": 1
   },
   "clean_total": 1,
-  "reply_hits": 0,
+  "reply_hits": 3,
   "samples": [
    "…，看完还有点儿意犹未尽很有代入感，剧情不拖沓，演员构造也很有感染力，期待第二集尽快推出"
   ],
@@ -8945,52 +9842,28 @@
   "ongoing": true
  },
  {
-  "name": "秦始皇：朕有华夏全明星阵容",
+  "name": "报告陛下，世子殿下又在作死了",
   "gender": "男频",
-  "seasons_n": 2,
-  "eps_est": 842,
+  "seasons_n": 1,
+  "eps_est": 824,
   "estimated": false,
   "score": null,
   "tags": [
-   "脑洞",
+   "剧情",
    "穿越",
+   "逆袭",
    "古代"
   ],
   "clean_hits": {
-   "拖沓": 1
+   "老套": 1
   },
   "clean_total": 1,
-  "reply_hits": 3,
+  "reply_hits": 2,
   "samples": [
-   "…，为了一个目标一步一步发展，剧情一点也不拖沓，真的超好看，看了那么多剧，这是第一部400多集没开倍速…"
+   "…我看过，这里面没有皇帝忌惮主角父亲的那种老套的剧情，这两个人其实是亲兄弟，两个人都不想当皇帝，最后主…"
   ],
-  "latest_season": 2,
-  "latest_season_date": "2026/09/22",
-  "ongoing": false
- },
- {
-  "name": "满院亲戚全是上古大妖",
-  "gender": "女频",
-  "seasons_n": 5,
-  "eps_est": 818,
-  "estimated": false,
-  "score": 9.1,
-  "tags": [
-   "奇幻",
-   "年代",
-   "205",
-   "修真"
-  ],
-  "clean_hits": {
-   "烂尾": 1
-  },
-  "clean_total": 1,
-  "reply_hits": 8,
-  "samples": [
-   "请记住：绝对不许断更，不许烂尾，不许砸招牌，速速保质保量快马加鞭夜以继日地更新！！"
-  ],
-  "latest_season": 5,
-  "latest_season_date": "2026/10/14",
+  "latest_season": 1,
+  "latest_season_date": "2026/10/15",
   "ongoing": false
  },
  {
@@ -9065,6 +9938,31 @@
   "ongoing": false
  },
  {
+  "name": "穿成炮灰妻!反派老公扯红眼完结版",
+  "gender": "女频",
+  "seasons_n": 1,
+  "eps_est": 789,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "恋爱",
+   "穿越",
+   "都市",
+   "豪门"
+  ],
+  "clean_hits": {
+   "老套": 1
+  },
+  "clean_total": 1,
+  "reply_hits": 8,
+  "samples": [
+   "…新颖的一部AI漫剧 怎么说呢 不会有那种老套路知道吗 而且女主和男主建模也挺好看的 不丑 也会换衣服…"
+  ],
+  "latest_season": 1,
+  "latest_season_date": "2026/10/22",
+  "ongoing": false
+ },
+ {
   "name": "谁家穿越被迫继承少主之位啊",
   "gender": "女频",
   "seasons_n": 4,
@@ -9091,27 +9989,26 @@
   "ongoing": false
  },
  {
-  "name": "纨绔兴明：我的舅舅是万历皇帝",
+  "name": "装穷十八年，高考后全家身份曝光",
   "gender": "男频",
   "seasons_n": 1,
-  "eps_est": 777,
+  "eps_est": 779,
   "estimated": false,
-  "score": 8.5,
+  "score": null,
   "tags": [
    "剧情",
-   "穿越",
-   "囤物资"
+   "都市"
   ],
   "clean_hits": {
-   "后宫": 1
+   "恋爱": 1
   },
   "clean_total": 1,
-  "reply_hits": 0,
+  "reply_hits": 1,
   "samples": [
-   "我看评论区有的人说是后宫文 有的人说没有女主 无cp 等着我看完再和你们说到底有没有女主[你细品]"
+   "这种剧是不是非得谈恋爱才行啊[捂脸]"
   ],
   "latest_season": 1,
-  "latest_season_date": "2026/10/19",
+  "latest_season_date": "2026/10/26",
   "ongoing": false
  },
  {
@@ -9156,7 +10053,7 @@
    "感情": 1
   },
   "clean_total": 1,
-  "reply_hits": 2,
+  "reply_hits": 4,
   "samples": [
    "我还以为是无cp呢，结果后面男主突然和一位女生亲上了[捂脸]连感情线都没多少[捂脸]"
   ],
@@ -9185,60 +10082,6 @@
   "ongoing": false
  },
  {
-  "name": "重回1994：超级赶海奶爸",
-  "gender": "男频",
-  "seasons_n": 3,
-  "eps_est": 750,
-  "estimated": false,
-  "score": null,
-  "tags": [
-   "种田",
-   "重生",
-   "系统",
-   "逆袭",
-   "年代",
-   "乡村"
-  ],
-  "clean_hits": {
-   "狗血": 1
-  },
-  "clean_total": 1,
-  "reply_hits": 0,
-  "samples": [
-   "…发展的进程稍微有些快。不过瑕不掩瑜，没有狗血撕逼，整体基调温暖向上，既有年代怀旧感，又有赶海的趣味，…"
-  ],
-  "latest_season": 3,
-  "latest_season_date": "2026/09/27",
-  "ongoing": false
- },
- {
-  "name": "山货换万金，挣起一个家AI真人版",
-  "gender": "男频",
-  "seasons_n": 2,
-  "eps_est": 749,
-  "estimated": false,
-  "score": null,
-  "tags": [
-   "脑洞",
-   "穿越",
-   "系统",
-   "逆袭",
-   "古代",
-   "乡村"
-  ],
-  "clean_hits": {
-   "俗套": 1
-  },
-  "clean_total": 1,
-  "reply_hits": 0,
-  "samples": [
-   "这个剧，没有落入俗套的爽文剧情套路，而是把人际交往、情绪调节等成长议题藏在轻松的日常故事里，实在是太…"
-  ],
-  "latest_season": 2,
-  "latest_season_date": "2026/10/02",
-  "ongoing": false
- },
- {
   "name": "傻女重生记，睁眼后盖房发家",
   "gender": "女频",
   "seasons_n": 5,
@@ -9256,7 +10099,7 @@
    "憋屈": 1
   },
   "clean_total": 1,
-  "reply_hits": 7,
+  "reply_hits": 8,
   "samples": [
    "…真的觉得自己对不起傻姑。心里有种说不出的憋屈感，好像应该很感恩，但是又堵心。真难受。"
   ],
@@ -9354,7 +10197,7 @@
    "恋爱": 1
   },
   "clean_total": 1,
-  "reply_hits": 2,
+  "reply_hits": 3,
   "samples": [
    "…命就能看出，作者塑造女主并不是一个只会谈恋爱的傻白甜，她是在塑造一个慢慢成长成一个有大爱的军人形象，…"
   ],
@@ -9380,12 +10223,32 @@
    "拖沓": 1
   },
   "clean_total": 1,
-  "reply_hits": 1,
+  "reply_hits": 3,
   "samples": [
    "…剧简直是精神代餐天花板[赞]快乐来得毫不拖沓[赞]一头扎进剧情，暂时躲开现实糟心事[尬笑][爽][送…"
   ],
   "latest_season": 1,
   "latest_season_date": "2026/10/18",
+  "ongoing": false
+ },
+ {
+  "name": "同学们都选阐教，而我偏选通天道",
+  "gender": "待定",
+  "seasons_n": 1,
+  "eps_est": 700,
+  "estimated": false,
+  "score": null,
+  "tags": [],
+  "clean_hits": {
+   "感情": 1
+  },
+  "clean_total": 1,
+  "reply_hits": 0,
+  "samples": [
+   "去找倒霉蛋通天教主……只要不重感情就是无敌"
+  ],
+  "latest_season": 0,
+  "latest_season_date": "",
   "ongoing": false
  },
  {
@@ -9415,54 +10278,27 @@
   "ongoing": false
  },
  {
-  "name": "爹爹入赘我暴富啦",
+  "name": "薄总太太要和你离婚",
   "gender": "女频",
-  "seasons_n": 5,
-  "eps_est": 693,
+  "seasons_n": 1,
+  "eps_est": 696,
   "estimated": false,
   "score": null,
   "tags": [
-   "脑洞",
-   "重生",
-   "逆袭",
-   "年代",
-   "乡村"
-  ],
-  "clean_hits": {
-   "洗白": 1
-  },
-  "clean_total": 1,
-  "reply_hits": 1,
-  "samples": [
-   "…造型太出戏，和周围人感觉不在同一年代。不洗白珍珠，平心而论，她两辈子都过的没多好。女主也提到，之前珍…"
-  ],
-  "latest_season": 5,
-  "latest_season_date": "2026/10/25",
-  "ongoing": false
- },
- {
-  "name": "失序偏爱完结篇",
-  "gender": "女频",
-  "seasons_n": 2,
-  "eps_est": 692,
-  "estimated": true,
-  "score": null,
-  "tags": [
    "恋爱",
-   "穿越",
-   "豪门",
-   "都市"
+   "都市",
+   "豪门"
   ],
   "clean_hits": {
-   "俗套": 1
+   "感情": 1
   },
   "clean_total": 1,
-  "reply_hits": 0,
+  "reply_hits": 7,
   "samples": [
-   "剧情完全不俗套，男女主就是都有脑子也长嘴了，全剧矛盾冲突挺多的，完全不无聊。我两方都能理解，感觉两个…"
+   "…作，对女配比女主还好，虽然后期说对女配没感情但因为恩情对女配百依百顺。就这样也能he。"
   ],
-  "latest_season": 2,
-  "latest_season_date": "2026/09/11",
+  "latest_season": 1,
+  "latest_season_date": "2026/10/13",
   "ongoing": false
  },
  {
@@ -9487,31 +10323,6 @@
   ],
   "latest_season": 6,
   "latest_season_date": "2026/10/23",
-  "ongoing": false
- },
- {
-  "name": "黑塔：从超忆症开始成神",
-  "gender": "男频",
-  "seasons_n": 5,
-  "eps_est": 676,
-  "estimated": false,
-  "score": null,
-  "tags": [
-   "脑洞",
-   "异能",
-   "战斗",
-   "都市"
-  ],
-  "clean_hits": {
-   "感情": 1
-  },
-  "clean_total": 1,
-  "reply_hits": 1,
-  "samples": [
-   "…记忆 主角组建自己团队的群像也好看 没有感情线 好评"
-  ],
-  "latest_season": 5,
-  "latest_season_date": "2026/10/18",
   "ongoing": false
  },
  {
@@ -9558,12 +10369,62 @@
    "恋爱": 1
   },
   "clean_total": 1,
-  "reply_hits": 0,
+  "reply_hits": 1,
   "samples": [
    "为啥要谈恋爱啊，不谈恋爱不是更好吗，这种题材谁原意看你情情爱爱的啊[捂脸][捂脸][捂脸]"
   ],
   "latest_season": 1,
   "latest_season_date": "2026/09/27",
+  "ongoing": false
+ },
+ {
+  "name": "逆袭之通天财眼",
+  "gender": "男频",
+  "seasons_n": 7,
+  "eps_est": 662,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "脑洞",
+   "逆袭",
+   "异能",
+   "都市"
+  ],
+  "clean_hits": {
+   "后宫": 1
+  },
+  "clean_total": 1,
+  "reply_hits": 0,
+  "samples": [
+   "…商业帝国太大海外也有业务，所以没有组织看后宫"
+  ],
+  "latest_season": 7,
+  "latest_season_date": "2026/08/29",
+  "ongoing": false
+ },
+ {
+  "name": "五灵根修仙：我有一个吞噬空间",
+  "gender": "男频",
+  "seasons_n": 8,
+  "eps_est": 656,
+  "estimated": true,
+  "score": null,
+  "tags": [
+   "玄幻",
+   "修真",
+   "逆袭",
+   "异界"
+  ],
+  "clean_hits": {
+   "圣母": 1
+  },
+  "clean_total": 1,
+  "reply_hits": 4,
+  "samples": [
+   "各位道友，我收藏了不少精品短剧，杀伐果断，不圣母[爽][送花][鼓掌][送花][鼓掌]"
+  ],
+  "latest_season": 8,
+  "latest_season_date": "2026/10/20",
   "ongoing": false
  },
  {
@@ -9637,7 +10498,7 @@
    "拖沓": 1
   },
   "clean_total": 1,
-  "reply_hits": 0,
+  "reply_hits": 1,
   "samples": [
    "好看，不拖沓，第二季快点出"
   ],
@@ -9663,7 +10524,7 @@
    "恋爱": 1
   },
   "clean_total": 1,
-  "reply_hits": 8,
+  "reply_hits": 9,
   "samples": [
    "…主是在寻找回家的路上，而不是兢兢业业的谈恋爱，在这里。[微笑]"
   ],
@@ -9713,7 +10574,7 @@
    "狗血": 1
   },
   "clean_total": 1,
-  "reply_hits": 0,
+  "reply_hits": 1,
   "samples": [
    "…着看，这本看的下去是因为整体没有那么烂俗狗血…速更哦～要不那么多离婚虐恋难离的本，很快会被淹没的[捂…"
   ],
@@ -9809,7 +10670,7 @@
    "拖沓": 1
   },
   "clean_total": 1,
-  "reply_hits": 0,
+  "reply_hits": 1,
   "samples": [
    "…她扫清朝堂，江湖朝堂双线并行，剧情紧凑不拖沓👍。主角坚守本心走出自己的路，看得我热血沸腾又感动满满✨…"
   ],
@@ -9818,28 +10679,23 @@
   "ongoing": false
  },
  {
-  "name": "谁又惹她了",
-  "gender": "女频",
-  "seasons_n": 3,
-  "eps_est": 598,
+  "name": "汴京食神：现代厨子的大宋逆袭录",
+  "gender": "待定",
+  "seasons_n": 1,
+  "eps_est": 600,
   "estimated": false,
   "score": null,
-  "tags": [
-   "恋爱",
-   "重生",
-   "都市",
-   "豪门"
-  ],
+  "tags": [],
   "clean_hits": {
-   "俗套": 1
+   "后宫": 1
   },
   "clean_total": 1,
-  "reply_hits": 0,
+  "reply_hits": 3,
   "samples": [
-   "真的很好看😘 剧情没有俗套的工业糖精和悬浮的人设 每一个角色的行为逻辑都贴合现实里普通人的选择😯 连…"
+   "看过虾仁版，结局很不错，也没开后宫纯爱种田日常"
   ],
-  "latest_season": 3,
-  "latest_season_date": "2026/10/20",
+  "latest_season": 0,
+  "latest_season_date": "",
   "ongoing": false
  },
  {
@@ -9858,7 +10714,7 @@
    "狗血": 1
   },
   "clean_total": 1,
-  "reply_hits": 0,
+  "reply_hits": 1,
   "samples": [
    "…嗑。剧情节奏舒服，人物塑造鲜活，没有强行狗血桥段。足足597集，故事体量充足，能慢慢感受双向治愈的甜…"
   ],
@@ -9890,32 +10746,6 @@
   ],
   "latest_season": 5,
   "latest_season_date": "2026/09/05",
-  "ongoing": false
- },
- {
-  "name": "重生北地，看我赶山养家",
-  "gender": "男频",
-  "seasons_n": 4,
-  "eps_est": 592,
-  "estimated": true,
-  "score": null,
-  "tags": [
-   "种田",
-   "重生",
-   "逆袭",
-   "年代",
-   "乡村"
-  ],
-  "clean_hits": {
-   "无脑": 1
-  },
-  "clean_total": 1,
-  "reply_hits": 0,
-  "samples": [
-   "…不慎摔坏腰椎，导致短暂的瘫痪。这部剧没有无脑开挂，靠着熟悉山林的经验进山寻货、打猎采山货、家乡大河捞…"
-  ],
-  "latest_season": 4,
-  "latest_season_date": "2026/09/11",
   "ongoing": false
  },
  {
@@ -9961,7 +10791,7 @@
    "绿茶": 1
   },
   "clean_total": 1,
-  "reply_hits": 0,
+  "reply_hits": 3,
   "samples": [
    "…，但是如果想看爽文的，那就别看，毕竟那个绿茶到现在都没有解决，然后又最后一集又多了个明珠，应该也是坏…"
   ],
@@ -10020,6 +10850,30 @@
   "ongoing": false
  },
  {
+  "name": "姐和萌崽被盛世宠婚啦",
+  "gender": "女频",
+  "seasons_n": 4,
+  "eps_est": 586,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "恋爱",
+   "都市",
+   "豪门"
+  ],
+  "clean_hits": {
+   "无脑": 1
+  },
+  "clean_total": 1,
+  "reply_hits": 1,
+  "samples": [
+   "放心我不是无脑花瓶，让自己做牢这事我做不出来。杨雨菲是你外孙女国然两人一个样没脸没皮[笑哭]。太会说…"
+  ],
+  "latest_season": 4,
+  "latest_season_date": "2026/10/19",
+  "ongoing": false
+ },
+ {
   "name": "修仙三万年，你让我当万人嫌女配角",
   "gender": "女频",
   "seasons_n": 4,
@@ -10037,38 +10891,12 @@
    "感情": 1
   },
   "clean_total": 1,
-  "reply_hits": 3,
+  "reply_hits": 5,
   "samples": [
    "…谓的女强男更强，女主就是最强的！目前没有感情线哦，男主是女主之前的宠物猫咪，戏份也不多快结局才出来的…"
   ],
   "latest_season": 4,
   "latest_season_date": "2026/10/26",
-  "ongoing": false
- },
- {
-  "name": "天灾末世：我能提取神话词条躺赢",
-  "gender": "待定",
-  "seasons_n": 1,
-  "eps_est": 583,
-  "estimated": false,
-  "score": null,
-  "tags": [
-   "末世",
-   "系统",
-   "求生",
-   "逆袭",
-   "都市"
-  ],
-  "clean_hits": {
-   "无脑": 1
-  },
-  "clean_total": 1,
-  "reply_hits": 0,
-  "samples": [
-   "…有灾难后宫求生剧里算好的一档了，不用那些无脑靠抢女人打脸推进剧情，没有针对主角的无脑反派，慢慢发育真…"
-  ],
-  "latest_season": 1,
-  "latest_season_date": "2026/10/27",
   "ongoing": false
  },
  {
@@ -10083,7 +10911,7 @@
    "无脑": 1
   },
   "clean_total": 1,
-  "reply_hits": 0,
+  "reply_hits": 2,
   "samples": [
    "…军火铺，这个切入点颇见巧思。剧情没有陷入无脑爽的窠臼，反倒在商战与权谋间寻得微妙平衡——投石机与火药…"
   ],
@@ -10158,7 +10986,7 @@
    "无脑": 1
   },
   "clean_total": 1,
-  "reply_hits": 1,
+  "reply_hits": 4,
   "samples": [
    "…握的挺好 自然而然 细水长流的 没有那种无脑的黏在一起 都是两个独立的人 两个人大部分时间都是各忙各…"
   ],
@@ -10193,23 +11021,27 @@
   "ongoing": false
  },
  {
-  "name": "都流放了，你们还求我回京称帝",
-  "gender": "待定",
-  "seasons_n": 1,
-  "eps_est": 559,
-  "estimated": false,
+  "name": "都重生了，当然要抱紧老婆脑夫君",
+  "gender": "女频",
+  "seasons_n": 3,
+  "eps_est": 558,
+  "estimated": true,
   "score": null,
-  "tags": [],
+  "tags": [
+   "剧情",
+   "重生",
+   "古代"
+  ],
   "clean_hits": {
-   "老套": 1
+   "绿茶": 1
   },
   "clean_total": 1,
-  "reply_hits": 0,
+  "reply_hits": 1,
   "samples": [
-   "…凡穿越必带系统，异能，空间，这个剧打破了老套路，关键是这剧长，能看过瘾，真好"
+   "这个令容不会是个绿茶吧[笑哭][笑哭][笑哭]还有这个小孩莫名其妙对妹宝有这么大敌意[笑哭][笑哭]…"
   ],
-  "latest_season": 0,
-  "latest_season_date": "",
+  "latest_season": 3,
+  "latest_season_date": "2026/09/29",
   "ongoing": false
  },
  {
@@ -10229,12 +11061,38 @@
    "感情": 1
   },
   "clean_total": 1,
-  "reply_hits": 0,
+  "reply_hits": 2,
   "samples": [
    "最好的感情不是一时心动，是历经平淡琐碎，依旧愿意偏爱对方。柴米油盐是我们，落日晚风也是我们，平凡日子…"
   ],
   "latest_season": 1,
   "latest_season_date": "2026/10/04",
+  "ongoing": false
+ },
+ {
+  "name": "不愿终日种田，决心奔赴科举",
+  "gender": "男频",
+  "seasons_n": 2,
+  "eps_est": 557,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "脑洞",
+   "穿越",
+   "逆袭",
+   "古代",
+   "乡村"
+  ],
+  "clean_hits": {
+   "俗套": 1
+  },
+  "clean_total": 1,
+  "reply_hits": 2,
+  "samples": [
+   "…，配角每个人都很有特色，很出彩。故事也不俗套，非常值得看。"
+  ],
+  "latest_season": 2,
+  "latest_season_date": "2026/10/23",
   "ongoing": false
  },
  {
@@ -10278,7 +11136,7 @@
    "狗血": 1
   },
   "clean_total": 1,
-  "reply_hits": 0,
+  "reply_hits": 1,
   "samples": [
    "…看，纯纯的甜！年代文清流，没有啥糟心亲戚狗血剧情，男女主家庭都好好的，相亲结婚男帅女美都是好人，男主…"
   ],
@@ -10311,8 +11169,8 @@
   "ongoing": false
  },
  {
-  "name": "北凉弃子",
-  "gender": "男频",
+  "name": "老太太刷碗养活百万流民",
+  "gender": "女频",
   "seasons_n": 1,
   "eps_est": 541,
   "estimated": false,
@@ -10320,20 +11178,44 @@
   "tags": [
    "脑洞",
    "穿越",
-   "系统",
    "逆袭",
+   "囤物资",
    "古代"
   ],
   "clean_hits": {
-   "拖沓": 1
+   "圣母": 1
   },
   "clean_total": 1,
   "reply_hits": 0,
   "samples": [
-   "…全是精英，召唤了一个赵子龙，好看的剧，不拖沓，看着解气"
+   "不是我圣母，但是如果有人抢了吃了没事。匹夫无罪 怀璧其罪啊"
   ],
   "latest_season": 1,
-  "latest_season_date": "2026/10/11",
+  "latest_season_date": "2026/10/19",
+  "ongoing": false
+ },
+ {
+  "name": "重生归来，她四小姐不装了完结篇",
+  "gender": "女频",
+  "seasons_n": 3,
+  "eps_est": 540,
+  "estimated": true,
+  "score": null,
+  "tags": [
+   "剧情",
+   "重生",
+   "架空"
+  ],
+  "clean_hits": {
+   "圣母": 1
+  },
+  "clean_total": 1,
+  "reply_hits": 0,
+  "samples": [
+   "总算不圣母，有的把别人的孩子看得比自己孩子还重要"
+  ],
+  "latest_season": 3,
+  "latest_season_date": "2026/08/27",
   "ongoing": false
  },
  {
@@ -10354,12 +11236,36 @@
    "憋屈": 1
   },
   "clean_total": 1,
-  "reply_hits": 5,
+  "reply_hits": 6,
   "samples": [
    "…长里短的那种，很平平淡淡的，也没有那种很憋屈的那种，爹妈也没有很偏心，我觉得，而且女主特别能干，我是…"
   ],
   "latest_season": 1,
   "latest_season_date": "2026/10/02",
+  "ongoing": false
+ },
+ {
+  "name": "我嫁的穷小子，他竟是继承人",
+  "gender": "男频",
+  "seasons_n": 5,
+  "eps_est": 540,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "恋爱",
+   "都市",
+   "豪门"
+  ],
+  "clean_hits": {
+   "狗血": 1
+  },
+  "clean_total": 1,
+  "reply_hits": 1,
+  "samples": [
+   "狗血不狗血[捂脸][捂脸][捂脸]"
+  ],
+  "latest_season": 5,
+  "latest_season_date": "2026/10/27",
   "ongoing": false
  },
  {
@@ -10423,7 +11329,7 @@
    "俗套": 1
   },
   "clean_total": 1,
-  "reply_hits": 0,
+  "reply_hits": 1,
   "samples": [
    "…有笑点 每个副本的剧情都很新颖，一点都不俗套呀 而且男女主每套的衣服设计的非常的好看 男主依旧是纯爱…"
   ],
@@ -10512,12 +11418,38 @@
    "感情": 1
   },
   "clean_total": 1,
-  "reply_hits": 2,
+  "reply_hits": 4,
   "samples": [
    "…似快穿的东西，它无关男女，没有什么所谓的感情线。他有的只是星球文明跟文明之间的碰撞，所以让我觉得这个…"
   ],
   "latest_season": 0,
   "latest_season_date": "",
+  "ongoing": false
+ },
+ {
+  "name": "我只是个路过的实习医生",
+  "gender": "男频",
+  "seasons_n": 4,
+  "eps_est": 518,
+  "estimated": true,
+  "score": null,
+  "tags": [
+   "脑洞",
+   "系统",
+   "逆袭",
+   "都市",
+   "职场"
+  ],
+  "clean_hits": {
+   "感情": 1
+  },
+  "clean_total": 1,
+  "reply_hits": 0,
+  "samples": [
+   "只要不搞感情线我会一直看下去"
+  ],
+  "latest_season": 4,
+  "latest_season_date": "2026/10/23",
   "ongoing": false
  },
  {
@@ -10584,7 +11516,7 @@
    "感情": 1
   },
   "clean_total": 1,
-  "reply_hits": 0,
+  "reply_hits": 1,
   "samples": [
    "…该爽就爽 该动情就动情 还没有做到的就是感情线了 但是也有铺垫 短剧本身就做的很不错 期待后续"
   ],
@@ -10618,6 +11550,56 @@
   "ongoing": false
  },
  {
+  "name": "农门巧妻致富记",
+  "gender": "待定",
+  "seasons_n": 1,
+  "eps_est": 506,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "剧情",
+   "穿越",
+   "逆袭",
+   "古代",
+   "乡村"
+  ],
+  "clean_hits": {
+   "感情": 1
+  },
+  "clean_total": 1,
+  "reply_hits": 1,
+  "samples": [
+   "现实有感情都是这样 男的本来就喜欢这个娟子 自己成亲了感觉女的被他气到了 他现在对女主也没感情 他又…"
+  ],
+  "latest_season": 1,
+  "latest_season_date": "2026/10/27",
+  "ongoing": false
+ },
+ {
+  "name": "霍总别追了，太太想和你离婚很久了",
+  "gender": "女频",
+  "seasons_n": 1,
+  "eps_est": 505,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "恋爱",
+   "都市",
+   "豪门"
+  ],
+  "clean_hits": {
+   "绿茶": 1
+  },
+  "clean_total": 1,
+  "reply_hits": 6,
+  "samples": [
+   "女主长的非常美萌，根本不是那个小绿茶能比的，还有男主长里也不好看呀。安排一个好看对女主也好男二也行呀…"
+  ],
+  "latest_season": 1,
+  "latest_season_date": "2026/08/18",
+  "ongoing": false
+ },
+ {
   "name": "大荒寒门录：渔耕辟土度荒年",
   "gender": "男频",
   "seasons_n": 1,
@@ -10634,7 +11616,7 @@
    "拖沓": 1
   },
   "clean_total": 1,
-  "reply_hits": 1,
+  "reply_hits": 2,
   "samples": [
    "好看，不拖沓，题材新颖，下一季啥时候"
   ],
@@ -10658,12 +11640,36 @@
    "恋爱": 1
   },
   "clean_total": 1,
-  "reply_hits": 0,
+  "reply_hits": 3,
   "samples": [
    "…链以为缓和了，但是男主说两个人又不是在谈恋爱，还说项链是随便买的，女主就退了。后面两个人发生关系，女…"
   ],
   "latest_season": 1,
   "latest_season_date": "2026/10/11",
+  "ongoing": false
+ },
+ {
+  "name": "万倍返还：收徒筑基我直接成仙",
+  "gender": "男频",
+  "seasons_n": 1,
+  "eps_est": 502,
+  "estimated": false,
+  "score": 8.8,
+  "tags": [
+   "玄幻",
+   "穿越",
+   "系统"
+  ],
+  "clean_hits": {
+   "拖沓": 1
+  },
+  "clean_total": 1,
+  "reply_hits": 2,
+  "samples": [
+   "强烈安利这部短剧！剧情紧凑不拖沓，构思巧妙，人物鲜活，看点十足，很容易看入迷，值得一看[爽]"
+  ],
+  "latest_season": 1,
+  "latest_season_date": "2026/10/19",
   "ongoing": false
  },
  {
@@ -10692,6 +11698,32 @@
   "ongoing": false
  },
  {
+  "name": "1978：赶山养校花",
+  "gender": "女频",
+  "seasons_n": 1,
+  "eps_est": 500,
+  "estimated": false,
+  "score": null,
+  "tags": [
+   "恋爱",
+   "穿越",
+   "逆袭",
+   "年代",
+   "乡村"
+  ],
+  "clean_hits": {
+   "拖沓": 1
+  },
+  "clean_total": 1,
+  "reply_hits": 3,
+  "samples": [
+   "…宝藏啦！短剧就是生活精神代餐[赞]剧情不拖沓，快乐很纯粹[赞]追剧的时候烦恼统统忘掉[尬笑][爽][…"
+  ],
+  "latest_season": 1,
+  "latest_season_date": "2026/10/24",
+  "ongoing": false
+ },
+ {
   "name": "帝路征途3D版",
   "gender": "男频",
   "seasons_n": 1,
@@ -10715,57 +11747,6 @@
   ],
   "latest_season": 1,
   "latest_season_date": "2026/10/23",
-  "ongoing": false
- },
- {
-  "name": "梦惊前世，涅槃归来",
-  "gender": "女频",
-  "seasons_n": 1,
-  "eps_est": 500,
-  "estimated": false,
-  "score": null,
-  "tags": [
-   "剧情",
-   "重生",
-   "逆袭",
-   "古代"
-  ],
-  "clean_hits": {
-   "白莲花": 1
-  },
-  "clean_total": 1,
-  "reply_hits": 5,
-  "samples": [
-   "…子应该贤良淑德，那有男人不纳妾，她不光把白莲花纳进来打骂，还把她公公的白月光纳进来给她公公做妾[笑哭…"
-  ],
-  "latest_season": 1,
-  "latest_season_date": "2026/09/10",
-  "ongoing": false
- },
- {
-  "name": "全班穿越洪荒，你们天仙我圣人",
-  "gender": "男频",
-  "seasons_n": 3,
-  "eps_est": 500,
-  "estimated": false,
-  "score": null,
-  "tags": [
-   "玄幻",
-   "穿越",
-   "系统",
-   "逆袭",
-   "异界"
-  ],
-  "clean_hits": {
-   "圣母": 1
-  },
-  "clean_total": 1,
-  "reply_hits": 0,
-  "samples": [
-   "云霄被压在麒麟崖下，也没说死了，还有无当圣母，这是唯一记载留下的独苗啊，[捂脸]还有多宝被西方教拐走…"
-  ],
-  "latest_season": 3,
-  "latest_season_date": "2026/10/20",
   "ongoing": false
  },
  {
