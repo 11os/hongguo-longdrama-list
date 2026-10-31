@@ -220,6 +220,10 @@ body{
   .name{flex:0 1 auto}
   .nav{margin-left:auto}
 }
+/* 移动端：箭头排在「复制剧名 + 集数」这一行最右（不设 order 会跑到标题上面） */
+@media(max-width:860px){
+  .nav{order:4;margin-left:auto;display:inline-flex;align-items:center}
+}
 </style></head><body><div class="wrap">
   <div class="head"><h1>红果长剧清单</h1><span class="cnt" id="cnt">631 部</span></div>
   <p class="lead">收起时只看 <b>剧名 / 集数 / 好评差评标签</b>（桌面各 6 个、移动各 3 个，多的显示 <b>+N</b>）；
@@ -2926,7 +2930,11 @@ ai调得真实，真正的洪水不会那么干净，里面很脏，很容易生
     if(next){ row.setAttribute('open',''); } else { row.removeAttribute('open'); }
     if(sum) sum.setAttribute('aria-expanded', next ? 'true' : 'false');
   }
-  document.addEventListener('click', function(e){
+  var _lastTap = 0, _lastTarget = null;
+  function onTap(e){
+    var now = Date.now();
+    if(e.target === _lastTarget && now - _lastTap < 400){ return; }
+    _lastTap = now; _lastTarget = e.target;
     var more = e.target.closest('[data-more]');
     if(more){ e.stopPropagation(); toggle(more.closest('.row'), true); return; }
     var copy = e.target.closest('[data-copy]');
@@ -2940,6 +2948,10 @@ ai调得真实，真正的洪水不会那么干净，里面很脏，很容易生
     }
     var sum = e.target.closest('.sum');
     if(sum){ toggle(sum.closest('.row')); }
+  }
+  document.addEventListener('click', onTap);
+  document.addEventListener('pointerup', function(e){
+    if(e.pointerType === 'touch'){ onTap(e); }   // 手机端兜底：避免某些浏览器不派发 click
   });
   document.addEventListener('keydown', function(e){
     if((e.key === 'Enter' || e.key === ' ') && e.target.classList &&
