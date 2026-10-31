@@ -287,38 +287,11 @@ tr.hit td.n{box-shadow:inset 3px 0 0 #E0A800}
   font-size:11px;line-height:1.3;z-index:8}
 }
 
-/* ------------------------------------------------ 评论弹窗（列表结构不动） */
-#mdl{position:fixed;inset:0;z-index:60;display:none}
-#mdl.on{display:flex;align-items:center;justify-content:center}
-#mdl .mask{position:absolute;inset:0;background:rgba(30,30,28,.34)}
-#mdl .box{position:relative;background:#fff;border:1px solid #E7E4DB;border-radius:14px;
-  width:min(720px,calc(100vw - 24px));max-height:min(80vh,780px);display:flex;flex-direction:column;
-  box-shadow:0 16px 48px rgba(28,27,24,.22);overflow:hidden}
-#mdl .hd{display:flex;align-items:flex-start;gap:10px;padding:12px 14px 10px;border-bottom:1px solid #F1EFE8}
-#mdl .ttl{flex:1 1 auto;min-width:0;font-size:15px;font-weight:600;line-height:1.45;word-break:break-word}
-#mdl .x{flex:0 0 auto;width:26px;height:26px;padding:0;border:1px solid #E7E4DB;border-radius:8px;
-  background:#fff;color:#8A8880;font-size:12px;line-height:1;cursor:pointer}
-#mdl .x:hover{color:#23231F;border-color:#CFCBBE}
-#mdl .bd{overflow:auto;-webkit-overflow-scrolling:touch;padding:12px 14px 16px}
-/* 弹窗里标签：全部显示、允许换行 */
-#mdl .mt{display:block;margin:0 0 12px}
-#mdl .ktags{display:flex;flex-wrap:wrap;gap:8px 12px;align-items:flex-start;max-width:none}
-#mdl .kg{flex-wrap:wrap;max-width:none}
-#mdl .kg>.kw{display:inline-flex!important}
-#mdl .khide{display:contents!important}
-#mdl .krest,#mdl .kmore,#mdl .kless{display:none!important}
-#mdl .cbody{border:0;background:none;padding:0;max-height:none;margin:0}
-#mdl .cclose{display:none}
-@media(max-width:760px){
-  #mdl{align-items:flex-end}
-  #mdl .box{width:100%;max-height:88vh;border-radius:14px 14px 0 0;border-bottom:0}
-  #mdl .bd{padding:11px 12px 18px}
-}
 </style></head><body><div class="w">
 <div class="hd">
 <h1 id="h1">红果长剧清单 · ≥500 集</h1>
 <a class="gh" target="_blank" rel="noopener" title="GitHub 仓库" href="https://github.com/11os/hongguo-longdrama-list"><svg viewBox="0 0 16 16" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .271.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg></a></div>
-<p class="sub">生成于 2026-10-31 13:03　共 <b id="cnt">631</b> 个系列</p>
+<p class="sub">生成于 2026-10-31 13:24　共 <b id="cnt">631</b> 个系列</p>
 <details class="legend"><summary>图例与统计口径</summary><ul><li><b>合并</b>：同名不同季已合并；集数为系列累计，季数为已收录季数；评分取最高一季，收藏/点赞/评论为各季合计。</li><li><b>标签两档</b>：<span class="lgd lgd-c">好评</span> 事实性好评（没有后宫 / 舍弃拖沓支线 / 感情线都没有，也包括杀伐果断、搞事业这类正向特征）；<span class="lgd lgd-n">差评</span> 肯定式差评（后宫/圣母/狗血/拖沓确实存在）。每组默认只露前几个，点「+N」展开全部（再点「收起标签」收拢）。</li><li><b>交互</b>：点「评论摘要 N 条」展开抽屉，差评排在前面。</li><li><b>摘要</b>：只截命中词周边片段（单条 ≤50 字），命中词连同否定词一起高亮，差评排在前面；片段左侧色条：浅红=差评、浅绿=好评、橙=褒贬都有。样本不代表全量评论。</li><li><b>搜索</b>：剧名、类型、评论关键词都能搜（如「不拖沓」）；空格分隔多个词是「同时满足」。点「重置」把门槛/频道/排序/搜索一起恢复。</li><li><b>定位</b>：外部链接带上剧名（?name=剧名，或 #剧名）可自动定位到该剧：滚过去、高亮、并展开它的评论（门槛/频道/搜索会自动放开）。</li><li><b>上线日期</b>：剧名后的「第 N 季 · yyyy/mm/dd」取自播放页 <code>first_visible_time</code>（该季首次可见时间；站点没有单独的「更新日期」字段，评论区的 create_time 是评论时间）。标 <b>新季</b> 的是守望脚本 <code>scripts/watch_seasons.py</code> 相较已收录清单新发现的季；站点季号跳号时（站点写「第20季」而我们只收录到 3 季）徽章给的是站点季号，前面的「N 季」是已收录季数，两者不是一回事；该列随脚本重跑更新，没覆盖到的系列就不显示。</li></ul></details>
 <div class="bars"><div class="bar">
 <div class="fltgrp"><b>门槛</b><div class="btns flt">
@@ -2109,7 +2082,7 @@ PS：有评论说苏寒<mark>感情</mark>线的事情，这里再重申一…�
 <tr data-name="九块九造桥游戏，打穿天山" data-eps="300" data-seasons="1" data-g="u" data-max="300" data-score="0" data-fav="449513" data-like="0" data-comments="319"><td class="n"><div class="tl"><span class="bg g-u">待定</span><span class="nm">九块九造桥游戏，打穿天山</span><button class="src" type="button" data-copy="九块九造桥游戏，打穿天山" title="复制剧名，去红果 App 搜索">复制剧名</button><span class="bg one">单季</span><span class="bg e">300 集</span><span class="bg m">单季 300</span></div><details class="cbox"><summary><span class="cs"><span class="car">▸</span>评论摘要 <span class="cn">14</span> 条 <span class="rp" title="含「回评」的评论，已去重、排在详情最前；只计数，不计入好坏">回评 14</span></span><span class="ktags"></span></summary><div class="cbody"><p class="cm rep"><b>回评</b><mark>回评</mark>：女的是王多鱼投资系统，亏得越多返利越多！男的是情绪收割系统，越多反面情绪奖励越多[偷笑]真…</p><p class="cm rep"><b>回评</b><mark>回评</mark>：女的是王多鱼投资系统，亏得越多返利越多！男的是情绪收割系统，越多反面情绪奖励越多[偷笑]真…</p><p class="cm rep"><b>回评</b><mark>回评</mark>：有搞笑、有教育，但教育意义占比更大，作者很有才，应该是安检质检从业者[鼓掌]</p><p class="cm rep"><b>回评</b><mark>回评</mark>：有搞笑、有教育，但教育意义占比更大，作者很有才，应该是安检质检从业者[鼓掌]</p><p class="cm rep"><b>回评</b><mark>回评</mark>：不要被名字欺骗啦，真的特别特别好看。而且这个第一部跟名字只有一半关系，故事线应该铺很长，很…</p><p class="cm rep"><b>回评</b><mark>回评</mark>：不要被名字欺骗啦，真的特别特别好看。而且这个第一部跟名字只有一半关系，故事线应该铺很长，很…</p><p class="cm rep"><b>回评</b><mark>回评</mark>：真的好看，这剧绝对会爆的！看得我眼泪哗啦啦的[哭][哭][哭]期待第二季！</p><p class="cm rep"><b>回评</b><mark>回评</mark>：真的好看，这剧绝对会爆的！看得我眼泪哗啦啦的[哭][哭][哭]期待第二季！</p><p class="cm rep"><b>回评</b><mark>回评</mark>：我看到139集了，太有意思了[赞]这剧太好看了，特别有意思，红果独一份，剧情太出众了[送花…</p><p class="cm rep"><b>回评</b><mark>回评</mark>：我看到139集了，太有意思了[赞]这剧太好看了，特别有意思，红果独一份，剧情太出众了[送花…</p><p class="cm rep"><b>回评</b><mark>回评</mark>：这个剧的剧情真的超级好看，别被名字耽误了，剧情紧凑，过瘾，有刀子有反转，剧情很新颖，越看越…</p><p class="cm rep"><b>回评</b><mark>回评</mark>：这个剧的剧情真的超级好看，别被名字耽误了，剧情紧凑，过瘾，有刀子有反转，剧情很新颖，越看越…</p><p class="cm rep"><b>回评</b><mark>回评</mark>：这剧非常好，刚开始看名字差点直接划走，怀着帮大家探探路的心理看几集，结果一发不可收拾看到2…</p><p class="cm rep"><b>回评</b><mark>回评</mark>：这剧非常好，刚开始看名字差点直接划走，怀着帮大家探探路的心理看几集，结果一发不可收拾看到2…</p></div><button type="button" class="cclose">收起评论</button></details></td><td class="r sc" data-l="评分">-</td><td class="r" data-l="收藏">45.0万</td><td class="r" data-l="点赞">-</td><td class="r" data-l="评论">319</td></tr>
 <tr data-name="假千金带崽发家致富" data-eps="300" data-seasons="1" data-g="f" data-max="300" data-score="0" data-fav="1584658" data-like="0" data-comments="320"><td class="n"><div class="tl"><span class="bg g-f">女频</span><span class="nm">假千金带崽发家致富</span><button class="src" type="button" data-copy="假千金带崽发家致富" title="复制剧名，去红果 App 搜索">复制剧名</button><span class="bg one">单季</span><span class="bg e">300 集</span><span class="bg m">单季 300</span></div><details class="cbox"><summary><span class="cs"><span class="car">▸</span>评论摘要 <span class="cn">24</span> 条 <span class="rp" title="含「回评」的评论，已去重、排在详情最前；只计数，不计入好坏">回评 18</span></span><span class="ktags"><span class="kg k-c"><span class="kgt">好评</span><span class="kw c">搞事业 2</span><span class="kw c">无感情线 2</span><span class="kw c">不拖沓 1</span><span class="kw c">无绿茶 1</span></span><span class="kg k-n"><span class="kgt">差评</span><span class="kw n">绿茶 1</span></span></span></summary><div class="cbody"><p class="cm rep"><b>回评</b>看完<mark>回评</mark>：女主对弟妹好好，还送去书院读书，中途捡了失忆国公世子，和女主感情升温，还会各种吃食，什…</p><p class="cm rep"><b>回评</b>看完<mark>回评</mark>：女主对弟妹好好，还送去书院读书，中途捡了失忆国公世子，和女主感情升温，还会各种吃食，什…</p><p class="cm rep"><b>回评</b><mark>回评</mark>：一季剧情看下来很舒服 男女主有话就说一点也不瞒着谁 也没有什么金手指空间之类的 剧里面暂时…</p><p class="cm rep"><b>回评</b><mark>回评</mark>：一季剧情看下来很舒服 男女主有话就说一点也不瞒着谁 也没有什么金手指空间之类的 剧里面暂时…</p><p class="cm rep"><b>回评</b>第一次<mark>回评</mark>：好看的！首先集数感人其次每个人的性格设定饱满！女主的理智聪慧 男主眼里有活 妹妹活泼…</p><p class="cm rep"><b>回评</b>第一次<mark>回评</mark>：好看的！首先集数感人其次每个人的性格设定饱满！女主的理智聪慧 男主眼里有活 妹妹活泼…</p><p class="cm rep"><b>回评</b>一天看完<mark>回评</mark>，非常正常的剧，女主搞事业，感情戏一点点但无虐超甜，男女主都有嘴，有话直说，没有乱七…</p><p class="cm rep"><b>回评</b>一天看完<mark>回评</mark>，非常正常的剧，女主搞事业，感情戏一点点但无虐超甜，男女主都有嘴，有话直说，没有乱七…</p><p class="cm rep"><b>回评</b><mark>回评</mark>：本来以为女主是要搞事业发家致富的，直到救了男主后变成爱情剧了，要不要看你们随意</p><p class="cm rep"><b>回评</b><mark>回评</mark>：本来以为女主是要搞事业发家致富的，直到救了男主后变成爱情剧了，要不要看你们随意</p><p class="cm rep"><b>回评</b><mark>回评</mark>：好看[爱慕] 男女主长嘴，有话就说，没有误会。 一家人都很好，没有烦人的亲戚。 全剧就原女…</p><p class="cm rep"><b>回评</b><mark>回评</mark>：好看[爱慕] 男女主长嘴，有话就说，没有误会。 一家人都很好，没有烦人的亲戚。 全剧就原女…</p><p class="cm rep"><b>回评</b><mark>回评</mark>：整部剧就一个大雷点 女二下毒 想弄死女主 女主也心大 无反击 说要用报官解决 发现女二被困…</p><p class="cm rep"><b>回评</b><mark>回评</mark>：整部剧就一个大雷点 女二下毒 想弄死女主 女主也心大 无反击 说要用报官解决 发现女二被困…</p><p class="cm rep"><b>回评</b><mark>回评</mark>:有男主，且依旧霸道王爷爱上住土坯房子带两娃的我。依旧爱情，依旧飞上枝头变凤凰，依旧一边写努…</p><p class="cm rep"><b>回评</b><mark>回评</mark>:有男主，且依旧霸道王爷爱上住土坯房子带两娃的我。依旧爱情，依旧飞上枝头变凤凰，依旧一边写努…</p><p class="cm rep"><b>回评</b>看完<mark>回评</mark>：已经完结放心追，两季连出，没有费神费脑的勾心斗角，没有男女主长线拉扯，很温馨治愈的田园…</p><p class="cm rep"><b>回评</b>看完<mark>回评</mark>：已经完结放心追，两季连出，没有费神费脑的勾心斗角，没有男女主长线拉扯，很温馨治愈的田园…</p><p class="cm mix"><b>无感情线</b><b>绿茶</b>养了这么多年。就算<mark>不是自己亲生的也要有感情</mark>吧，这老嬷嬷可真是敢啊，这甄小姐咋那么<mark>绿茶</mark>呢？感觉[捂脸]</p><p class="cm c"><b>无绿茶</b>… 也没有什么金手指空间之类的 剧里面暂时<mark>没有绿茶</mark>(真千金没有啥动作 剧里面就出现了几次) 可冲 [爱…</p><p class="cm c"><b>不拖沓</b>…第一季的真千金暂时没惹事，男女主也都有嘴<mark>不拖沓</mark>别扭，遇到事情也是一起面对的！焦急等待第二季！[爱慕]</p><p class="cm c"><b>无感情线</b>…一点补偿啥的再回来嘛，然后跟那块父母一点<mark>感情都没有</mark>吗？我在想之后这个女主嗯，可能是赚钱了之后不会就是…</p><p class="cm c"><b>搞事业</b>一天看完回评，非常正常的剧，女主<mark>搞事业</mark>，感情戏一点点但无虐超甜，男女主都有嘴，有话直说，没有乱七八糟…</p><p class="cm c"><b>搞事业</b>回评：本来以为女主是要<mark>搞事业</mark>发家致富的，直到救了男主后变成爱情剧了，要不要看你们随意</p></div><button type="button" class="cclose">收起评论</button></details></td><td class="r sc" data-l="评分">-</td><td class="r" data-l="收藏">158.5万</td><td class="r" data-l="点赞">-</td><td class="r" data-l="评论">320</td></tr>
 </tbody></table><div class="empty" id="empty" hidden>没有匹配的剧：换个关键词，或点「重置」/ 放宽门槛</div></div>
-</div><div id="mdl"><div class="mask" data-mclose></div><div class="box"><div class="hd"><span class="ttl" id="mdl-ttl"></span><button class="x" type="button" data-mclose aria-label="关闭">✕</button></div><div class="bd" id="mdl-bd"></div></div></div><script>
+</div><script>
 (function(){
   /* ------------------------------------------------ 排序 */
   var t0=document.querySelector('table[data-sortable]');
@@ -2486,30 +2459,4 @@ PS：有评论说苏寒<mark>感情</mark>线的事情，这里再重申一…�
   window.addEventListener('hashchange',function(){locate(paramName());});
 })();
 
-/* 评论弹窗：点「评论摘要」不再就地展开，改为弹窗；弹窗里标签全部换行显示 */
-(function(){
-  var mdl=document.getElementById('mdl'); if(!mdl) return;
-  var bd=document.getElementById('mdl-bd'), ttl=document.getElementById('mdl-ttl');
-  function open(cbox){
-    var tr=cbox.closest('tr');
-    ttl.textContent=tr?(tr.getAttribute('data-name')||''):'';
-    var kt=cbox.querySelector('.ktags'), cb=cbox.querySelector('.cbody');
-    bd.innerHTML=(kt?'<div class="mt ktags">'+kt.innerHTML+'</div>':'')+(cb?cb.innerHTML:'');
-    mdl.classList.add('on');
-    document.documentElement.style.overflow='hidden';
-    bd.scrollTop=0;
-  }
-  function close(){
-    mdl.classList.remove('on'); bd.innerHTML='';
-    document.documentElement.style.overflow='';
-  }
-  document.addEventListener('click', function(e){
-    var s=e.target.closest('summary');
-    if(s && s.parentNode && s.parentNode.classList && s.parentNode.classList.contains('cbox')){
-      e.preventDefault(); e.stopPropagation(); open(s.parentNode); return;
-    }
-    if(e.target.closest('[data-mclose]')){ e.preventDefault(); close(); }
-  }, true);
-  document.addEventListener('keydown', function(e){ if(e.key==='Escape') close(); });
-})();
 </script></body></html>
