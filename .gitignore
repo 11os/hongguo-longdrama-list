@@ -5,3 +5,8 @@ dist/
 *.tmp
 __pycache__/
 .DS_Store
+
+# Qoder Sites 的打包目录与发布描述符（publish.py 同批生成，不入库）
+qoder/
+*.qoder.site
+.qoder/
